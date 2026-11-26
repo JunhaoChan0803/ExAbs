@@ -1,0 +1,30 @@
+{
+  "eval_budget_env_steps": 100,
+  "high_cem": {
+    "action_block": 1,
+    "horizon": 1,
+    "iterations": 40,
+    "num_samples": 1500,
+    "receding_horizon": 1,
+    "topk": 10
+  },
+  "low_cem": {
+    "action_block": 5,
+    "horizon": 2,
+    "iterations": 30,
+    "num_samples": 900,
+    "receding_horizon": 1,
+    "topk": 150
+  },
+  "high_replan_interval_env_steps": 5,
+  "cost": {
+    "am_lcb_standard_deviations": 1,
+    "am_risk_weight": 0.5,
+    "am_value_weight": 0.25,
+    "low_action_block_env_steps": 5,
+    "method": "exabs",
+    "petal_alpha": 0.05,
+    "petal_residual_clip": 3
+  },
+  "seed": 260933
+}

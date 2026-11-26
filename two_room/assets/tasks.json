@@ -1,0 +1,1014 @@
+{
+  "layouts": [
+    {
+      "difficulty": "medium",
+      "group": "room_01",
+      "lower_width": 0.14984499343122307,
+      "lower_y": 0.26167111892287315,
+      "mirror": false,
+      "upper_width": 0.12,
+      "upper_y": 0.7221015516409827,
+      "wall_width": 0.04,
+      "wall_x": 0.48666085153927907
+    },
+    {
+      "difficulty": "medium",
+      "group": "room_01",
+      "lower_width": 0.14984499343122307,
+      "lower_y": 0.26167111892287315,
+      "mirror": true,
+      "upper_width": 0.12,
+      "upper_y": 0.7221015516409827,
+      "wall_width": 0.04,
+      "wall_x": 0.48666085153927907
+    },
+    {
+      "difficulty": "medium",
+      "group": "room_02",
+      "lower_width": 0.15259873648134487,
+      "lower_y": 0.2518699533351448,
+      "mirror": false,
+      "upper_width": 0.12,
+      "upper_y": 0.7648637384983313,
+      "wall_width": 0.04,
+      "wall_x": 0.5139482451342979
+    },
+    {
+      "difficulty": "medium",
+      "group": "room_02",
+      "lower_width": 0.15259873648134487,
+      "lower_y": 0.2518699533351448,
+      "mirror": true,
+      "upper_width": 0.12,
+      "upper_y": 0.7648637384983313,
+      "wall_width": 0.04,
+      "wall_x": 0.5139482451342979
+    },
+    {
+      "difficulty": "medium",
+      "group": "room_03",
+      "lower_width": 0.12695032847613677,
+      "lower_y": 0.28008875443188186,
+      "mirror": false,
+      "upper_width": 0.12,
+      "upper_y": 0.7546005211958523,
+      "wall_width": 0.04,
+      "wall_x": 0.5080713153518318
+    },
+    {
+      "difficulty": "medium",
+      "group": "room_03",
+      "lower_width": 0.12695032847613677,
+      "lower_y": 0.28008875443188186,
+      "mirror": true,
+      "upper_width": 0.12,
+      "upper_y": 0.7546005211958523,
+      "wall_width": 0.04,
+      "wall_x": 0.5080713153518318
+    },
+    {
+      "difficulty": "medium",
+      "group": "room_04",
+      "lower_width": 0.14093210804228412,
+      "lower_y": 0.25862901972256874,
+      "mirror": false,
+      "upper_width": 0.12,
+      "upper_y": 0.7522847837059878,
+      "wall_width": 0.04,
+      "wall_x": 0.5284150885359533
+    },
+    {
+      "difficulty": "medium",
+      "group": "room_04",
+      "lower_width": 0.14093210804228412,
+      "lower_y": 0.25862901972256874,
+      "mirror": true,
+      "upper_width": 0.12,
+      "upper_y": 0.7522847837059878,
+      "wall_width": 0.04,
+      "wall_x": 0.5284150885359533
+    },
+    {
+      "difficulty": "hard",
+      "group": "room_05",
+      "lower_width": 0.09804263343915154,
+      "lower_y": 0.16655583779986674,
+      "mirror": false,
+      "upper_width": 0.12,
+      "upper_y": 0.8890809892861368,
+      "wall_width": 0.04,
+      "wall_x": 0.5267617755693532
+    },
+    {
+      "difficulty": "hard",
+      "group": "room_05",
+      "lower_width": 0.09804263343915154,
+      "lower_y": 0.16655583779986674,
+      "mirror": true,
+      "upper_width": 0.12,
+      "upper_y": 0.8890809892861368,
+      "wall_width": 0.04,
+      "wall_x": 0.5267617755693532
+    },
+    {
+      "difficulty": "hard",
+      "group": "room_06",
+      "lower_width": 0.09761019433723904,
+      "lower_y": 0.16865871237355906,
+      "mirror": false,
+      "upper_width": 0.12,
+      "upper_y": 0.8706574210244036,
+      "wall_width": 0.04,
+      "wall_x": 0.5261310834240485
+    },
+    {
+      "difficulty": "hard",
+      "group": "room_06",
+      "lower_width": 0.09761019433723904,
+      "lower_y": 0.16865871237355906,
+      "mirror": true,
+      "upper_width": 0.12,
+      "upper_y": 0.8706574210244036,
+      "wall_width": 0.04,
+      "wall_x": 0.5261310834240485
+    },
+    {
+      "difficulty": "hard",
+      "group": "room_07",
+      "lower_width": 0.09137928046396943,
+      "lower_y": 0.10581283619066079,
+      "mirror": false,
+      "upper_width": 0.12,
+      "upper_y": 0.8996104091017171,
+      "wall_width": 0.04,
+      "wall_x": 0.517715738838856
+    },
+    {
+      "difficulty": "hard",
+      "group": "room_07",
+      "lower_width": 0.09137928046396943,
+      "lower_y": 0.10581283619066079,
+      "mirror": true,
+      "upper_width": 0.12,
+      "upper_y": 0.8996104091017171,
+      "wall_width": 0.04,
+      "wall_x": 0.517715738838856
+    },
+    {
+      "difficulty": "hard",
+      "group": "room_08",
+      "lower_width": 0.09809154056411534,
+      "lower_y": 0.14758851257142544,
+      "mirror": false,
+      "upper_width": 0.12,
+      "upper_y": 0.8735883606240292,
+      "wall_width": 0.04,
+      "wall_x": 0.5256718424718214
+    },
+    {
+      "difficulty": "hard",
+      "group": "room_08",
+      "lower_width": 0.09809154056411534,
+      "lower_y": 0.14758851257142544,
+      "mirror": true,
+      "upper_width": 0.12,
+      "upper_y": 0.8735883606240292,
+      "wall_width": 0.04,
+      "wall_x": 0.5256718424718214
+    }
+  ],
+  "tasks": [
+    {
+      "id": "episode_01",
+      "layout_id": "room_01_original",
+      "difficulty": "medium",
+      "start": [
+        0.6718129448924283,
+        0.7082389838059158
+      ],
+      "goal": [
+        0.30125827712181563,
+        0.7365818432828495
+      ]
+    },
+    {
+      "id": "episode_02",
+      "layout_id": "room_01_original",
+      "difficulty": "medium",
+      "start": [
+        0.6626196671868925,
+        0.7295278300665958
+      ],
+      "goal": [
+        0.23804495643405055,
+        0.7256776434422226
+      ]
+    },
+    {
+      "id": "episode_03",
+      "layout_id": "room_01_mirror",
+      "difficulty": "medium",
+      "start": [
+        0.32818705510757173,
+        0.7082389838059158
+      ],
+      "goal": [
+        0.6987417228781844,
+        0.7365818432828495
+      ]
+    },
+    {
+      "id": "episode_04",
+      "layout_id": "room_01_mirror",
+      "difficulty": "medium",
+      "start": [
+        0.33738033281310753,
+        0.7295278300665958
+      ],
+      "goal": [
+        0.7619550435659495,
+        0.7256776434422226
+      ]
+    },
+    {
+      "id": "episode_05",
+      "layout_id": "room_02_original",
+      "difficulty": "medium",
+      "start": [
+        0.8215070686707926,
+        0.737529855311533
+      ],
+      "goal": [
+        0.31686301224328123,
+        0.7494227540377154
+      ]
+    },
+    {
+      "id": "episode_06",
+      "layout_id": "room_02_original",
+      "difficulty": "medium",
+      "start": [
+        0.8329392803917464,
+        0.7303962948850882
+      ],
+      "goal": [
+        0.294884493506418,
+        0.7664272379330471
+      ]
+    },
+    {
+      "id": "episode_07",
+      "layout_id": "room_02_mirror",
+      "difficulty": "medium",
+      "start": [
+        0.1784929313292074,
+        0.737529855311533
+      ],
+      "goal": [
+        0.6831369877567188,
+        0.7494227540377154
+      ]
+    },
+    {
+      "id": "episode_08",
+      "layout_id": "room_02_mirror",
+      "difficulty": "medium",
+      "start": [
+        0.16706071960825364,
+        0.7303962948850882
+      ],
+      "goal": [
+        0.705115506493582,
+        0.7664272379330471
+      ]
+    },
+    {
+      "id": "episode_09",
+      "layout_id": "room_03_original",
+      "difficulty": "medium",
+      "start": [
+        0.6498861732359752,
+        0.7237197850651855
+      ],
+      "goal": [
+        0.2788630800326493,
+        0.74137354455391
+      ]
+    },
+    {
+      "id": "episode_10",
+      "layout_id": "room_03_original",
+      "difficulty": "medium",
+      "start": [
+        0.798308654922067,
+        0.739476910045682
+      ],
+      "goal": [
+        0.3475492497017947,
+        0.7247318165787998
+      ]
+    },
+    {
+      "id": "episode_11",
+      "layout_id": "room_03_mirror",
+      "difficulty": "medium",
+      "start": [
+        0.3501138267640248,
+        0.7237197850651855
+      ],
+      "goal": [
+        0.7211369199673507,
+        0.74137354455391
+      ]
+    },
+    {
+      "id": "episode_12",
+      "layout_id": "room_03_mirror",
+      "difficulty": "medium",
+      "start": [
+        0.20169134507793296,
+        0.739476910045682
+      ],
+      "goal": [
+        0.6524507502982053,
+        0.7247318165787998
+      ]
+    },
+    {
+      "id": "episode_13",
+      "layout_id": "room_04_original",
+      "difficulty": "medium",
+      "start": [
+        0.6818254801298648,
+        0.7853317613320505
+      ],
+      "goal": [
+        0.20311463414673595,
+        0.7573295501290268
+      ]
+    },
+    {
+      "id": "episode_14",
+      "layout_id": "room_04_original",
+      "difficulty": "medium",
+      "start": [
+        0.7038594428678209,
+        0.7315483477402167
+      ],
+      "goal": [
+        0.20749261322929718,
+        0.7247544889329498
+      ]
+    },
+    {
+      "id": "episode_15",
+      "layout_id": "room_04_mirror",
+      "difficulty": "medium",
+      "start": [
+        0.31817451987013523,
+        0.7853317613320505
+      ],
+      "goal": [
+        0.7968853658532641,
+        0.7573295501290268
+      ]
+    },
+    {
+      "id": "episode_16",
+      "layout_id": "room_04_mirror",
+      "difficulty": "medium",
+      "start": [
+        0.2961405571321791,
+        0.7315483477402167
+      ],
+      "goal": [
+        0.7925073867707029,
+        0.7247544889329498
+      ]
+    },
+    {
+      "id": "episode_17",
+      "layout_id": "room_05_original",
+      "difficulty": "hard",
+      "start": [
+        0.6735301261468135,
+        0.8987068853427855
+      ],
+      "goal": [
+        0.3473899163606058,
+        0.8953453263165362
+      ]
+    },
+    {
+      "id": "episode_18",
+      "layout_id": "room_05_original",
+      "difficulty": "hard",
+      "start": [
+        0.7738522651509274,
+        0.9045489093703324
+      ],
+      "goal": [
+        0.3462358406984919,
+        0.8615087878201821
+      ]
+    },
+    {
+      "id": "episode_19",
+      "layout_id": "room_05_mirror",
+      "difficulty": "hard",
+      "start": [
+        0.3264698738531865,
+        0.8987068853427855
+      ],
+      "goal": [
+        0.6526100836393942,
+        0.8953453263165362
+      ]
+    },
+    {
+      "id": "episode_20",
+      "layout_id": "room_05_mirror",
+      "difficulty": "hard",
+      "start": [
+        0.22614773484907258,
+        0.9045489093703324
+      ],
+      "goal": [
+        0.6537641593015081,
+        0.8615087878201821
+      ]
+    },
+    {
+      "id": "episode_21",
+      "layout_id": "room_06_original",
+      "difficulty": "hard",
+      "start": [
+        0.6429385915414635,
+        0.8649597035105906
+      ],
+      "goal": [
+        0.31670012707006945,
+        0.8539588833938851
+      ]
+    },
+    {
+      "id": "episode_22",
+      "layout_id": "room_06_original",
+      "difficulty": "hard",
+      "start": [
+        0.6765462716444134,
+        0.9020062638433777
+      ],
+      "goal": [
+        0.2573983949583134,
+        0.8835786233842164
+      ]
+    },
+    {
+      "id": "episode_23",
+      "layout_id": "room_06_mirror",
+      "difficulty": "hard",
+      "start": [
+        0.3570614084585365,
+        0.8649597035105906
+      ],
+      "goal": [
+        0.6832998729299306,
+        0.8539588833938851
+      ]
+    },
+    {
+      "id": "episode_24",
+      "layout_id": "room_06_mirror",
+      "difficulty": "hard",
+      "start": [
+        0.3234537283555866,
+        0.9020062638433777
+      ],
+      "goal": [
+        0.7426016050416866,
+        0.8835786233842164
+      ]
+    },
+    {
+      "id": "episode_25",
+      "layout_id": "room_07_original",
+      "difficulty": "hard",
+      "start": [
+        0.6512099167048965,
+        0.8762929808730521
+      ],
+      "goal": [
+        0.20632583480846678,
+        0.9273059189093433
+      ]
+    },
+    {
+      "id": "episode_26",
+      "layout_id": "room_07_original",
+      "difficulty": "hard",
+      "start": [
+        0.7934509479385248,
+        0.8782230862817139
+      ],
+      "goal": [
+        0.3362335245079163,
+        0.9051594352000436
+      ]
+    },
+    {
+      "id": "episode_27",
+      "layout_id": "room_07_mirror",
+      "difficulty": "hard",
+      "start": [
+        0.3487900832951035,
+        0.8762929808730521
+      ],
+      "goal": [
+        0.7936741651915332,
+        0.9273059189093433
+      ]
+    },
+    {
+      "id": "episode_28",
+      "layout_id": "room_07_mirror",
+      "difficulty": "hard",
+      "start": [
+        0.20654905206147522,
+        0.8782230862817139
+      ],
+      "goal": [
+        0.6637664754920837,
+        0.9051594352000436
+      ]
+    },
+    {
+      "id": "episode_29",
+      "layout_id": "room_08_original",
+      "difficulty": "hard",
+      "start": [
+        0.6808052017020767,
+        0.8674100517300066
+      ],
+      "goal": [
+        0.3217402824901573,
+        0.8743293265114847
+      ]
+    },
+    {
+      "id": "episode_30",
+      "layout_id": "room_08_original",
+      "difficulty": "hard",
+      "start": [
+        0.6927303490894828,
+        0.8859891268230237
+      ],
+      "goal": [
+        0.335586083115812,
+        0.907999300911533
+      ]
+    },
+    {
+      "id": "episode_31",
+      "layout_id": "room_08_mirror",
+      "difficulty": "hard",
+      "start": [
+        0.3191947982979233,
+        0.8674100517300066
+      ],
+      "goal": [
+        0.6782597175098427,
+        0.8743293265114847
+      ]
+    },
+    {
+      "id": "episode_32",
+      "layout_id": "room_08_mirror",
+      "difficulty": "hard",
+      "start": [
+        0.30726965091051717,
+        0.8859891268230237
+      ],
+      "goal": [
+        0.664413916884188,
+        0.907999300911533
+      ]
+    },
+    {
+      "id": "episode_33",
+      "layout_id": "room_01_original",
+      "difficulty": "medium",
+      "start": [
+        0.6602500315930808,
+        0.6913833195118666
+      ],
+      "goal": [
+        0.24083054182781172,
+        0.7424484972872429
+      ]
+    },
+    {
+      "id": "episode_34",
+      "layout_id": "room_01_mirror",
+      "difficulty": "medium",
+      "start": [
+        0.3397499684069192,
+        0.6913833195118666
+      ],
+      "goal": [
+        0.7591694581721883,
+        0.7424484972872429
+      ]
+    },
+    {
+      "id": "episode_35",
+      "layout_id": "room_01_original",
+      "difficulty": "medium",
+      "start": [
+        0.6480689994717812,
+        0.7225887929527204
+      ],
+      "goal": [
+        0.320435816059253,
+        0.7280973399065426
+      ]
+    },
+    {
+      "id": "episode_36",
+      "layout_id": "room_01_mirror",
+      "difficulty": "medium",
+      "start": [
+        0.3519310005282188,
+        0.7225887929527204
+      ],
+      "goal": [
+        0.679564183940747,
+        0.7280973399065426
+      ]
+    },
+    {
+      "id": "episode_37",
+      "layout_id": "room_02_original",
+      "difficulty": "medium",
+      "start": [
+        0.6678555894572104,
+        0.7526322124299902
+      ],
+      "goal": [
+        0.2173249124510428,
+        0.795655599993229
+      ]
+    },
+    {
+      "id": "episode_38",
+      "layout_id": "room_02_mirror",
+      "difficulty": "medium",
+      "start": [
+        0.33214441054278965,
+        0.7526322124299902
+      ],
+      "goal": [
+        0.7826750875489572,
+        0.795655599993229
+      ]
+    },
+    {
+      "id": "episode_39",
+      "layout_id": "room_02_original",
+      "difficulty": "medium",
+      "start": [
+        0.7415164288491314,
+        0.7863425125321796
+      ],
+      "goal": [
+        0.30823195971693806,
+        0.7949378912790221
+      ]
+    },
+    {
+      "id": "episode_40",
+      "layout_id": "room_02_mirror",
+      "difficulty": "medium",
+      "start": [
+        0.2584835711508686,
+        0.7863425125321796
+      ],
+      "goal": [
+        0.6917680402830619,
+        0.7949378912790221
+      ]
+    },
+    {
+      "id": "episode_41",
+      "layout_id": "room_03_original",
+      "difficulty": "medium",
+      "start": [
+        0.7082974050227135,
+        0.777074372079212
+      ],
+      "goal": [
+        0.26890706991910784,
+        0.7797283527861062
+      ]
+    },
+    {
+      "id": "episode_42",
+      "layout_id": "room_03_mirror",
+      "difficulty": "medium",
+      "start": [
+        0.29170259497728646,
+        0.777074372079212
+      ],
+      "goal": [
+        0.7310929300808922,
+        0.7797283527861062
+      ]
+    },
+    {
+      "id": "episode_43",
+      "layout_id": "room_03_original",
+      "difficulty": "medium",
+      "start": [
+        0.6460786048297614,
+        0.76104506448939
+      ],
+      "goal": [
+        0.16689043014637905,
+        0.7587352818204502
+      ]
+    },
+    {
+      "id": "episode_44",
+      "layout_id": "room_03_mirror",
+      "difficulty": "medium",
+      "start": [
+        0.3539213951702386,
+        0.76104506448939
+      ],
+      "goal": [
+        0.833109569853621,
+        0.7587352818204502
+      ]
+    },
+    {
+      "id": "episode_45",
+      "layout_id": "room_04_original",
+      "difficulty": "medium",
+      "start": [
+        0.7624641345735576,
+        0.7808407276773722
+      ],
+      "goal": [
+        0.34146335775720227,
+        0.7241196845677975
+      ]
+    },
+    {
+      "id": "episode_46",
+      "layout_id": "room_04_mirror",
+      "difficulty": "medium",
+      "start": [
+        0.23753586542644245,
+        0.7808407276773722
+      ],
+      "goal": [
+        0.6585366422427977,
+        0.7241196845677975
+      ]
+    },
+    {
+      "id": "episode_47",
+      "layout_id": "room_04_original",
+      "difficulty": "medium",
+      "start": [
+        0.7561451645926061,
+        0.7205954830507943
+      ],
+      "goal": [
+        0.2964426439050403,
+        0.7464512171209545
+      ]
+    },
+    {
+      "id": "episode_48",
+      "layout_id": "room_04_mirror",
+      "difficulty": "medium",
+      "start": [
+        0.24385483540739394,
+        0.7205954830507943
+      ],
+      "goal": [
+        0.7035573560949597,
+        0.7464512171209545
+      ]
+    },
+    {
+      "id": "episode_49",
+      "layout_id": "room_05_original",
+      "difficulty": "hard",
+      "start": [
+        0.6491509181355526,
+        0.8658789213813649
+      ],
+      "goal": [
+        0.2738867604381857,
+        0.8741420188164697
+      ]
+    },
+    {
+      "id": "episode_50",
+      "layout_id": "room_05_mirror",
+      "difficulty": "hard",
+      "start": [
+        0.3508490818644474,
+        0.8658789213813649
+      ],
+      "goal": [
+        0.7261132395618143,
+        0.8741420188164697
+      ]
+    },
+    {
+      "id": "episode_51",
+      "layout_id": "room_05_original",
+      "difficulty": "hard",
+      "start": [
+        0.6879257959343459,
+        0.8905626862566054
+      ],
+      "goal": [
+        0.3568783478034888,
+        0.9128871194655228
+      ]
+    },
+    {
+      "id": "episode_52",
+      "layout_id": "room_05_mirror",
+      "difficulty": "hard",
+      "start": [
+        0.3120742040656541,
+        0.8905626862566054
+      ],
+      "goal": [
+        0.6431216521965112,
+        0.9128871194655228
+      ]
+    },
+    {
+      "id": "episode_53",
+      "layout_id": "room_06_original",
+      "difficulty": "hard",
+      "start": [
+        0.6942047070292522,
+        0.8791261319510499
+      ],
+      "goal": [
+        0.28017125944600424,
+        0.8910196867531913
+      ]
+    },
+    {
+      "id": "episode_54",
+      "layout_id": "room_06_mirror",
+      "difficulty": "hard",
+      "start": [
+        0.3057952929707478,
+        0.8791261319510499
+      ],
+      "goal": [
+        0.7198287405539958,
+        0.8910196867531913
+      ]
+    },
+    {
+      "id": "episode_55",
+      "layout_id": "room_06_original",
+      "difficulty": "hard",
+      "start": [
+        0.6770044756817529,
+        0.841436339986939
+      ],
+      "goal": [
+        0.33826143610873816,
+        0.8961683751296006
+      ]
+    },
+    {
+      "id": "episode_56",
+      "layout_id": "room_06_mirror",
+      "difficulty": "hard",
+      "start": [
+        0.3229955243182471,
+        0.841436339986939
+      ],
+      "goal": [
+        0.6617385638912618,
+        0.8961683751296006
+      ]
+    },
+    {
+      "id": "episode_57",
+      "layout_id": "room_07_original",
+      "difficulty": "hard",
+      "start": [
+        0.7625058151906337,
+        0.8646928039104977
+      ],
+      "goal": [
+        0.35495100260366885,
+        0.9112951011118663
+      ]
+    },
+    {
+      "id": "episode_58",
+      "layout_id": "room_07_mirror",
+      "difficulty": "hard",
+      "start": [
+        0.23749418480936635,
+        0.8646928039104977
+      ],
+      "goal": [
+        0.6450489973963311,
+        0.9112951011118663
+      ]
+    },
+    {
+      "id": "episode_59",
+      "layout_id": "room_07_original",
+      "difficulty": "hard",
+      "start": [
+        0.7074935057757412,
+        0.9186619810440056
+      ],
+      "goal": [
+        0.2660421970957456,
+        0.913426268023658
+      ]
+    },
+    {
+      "id": "episode_60",
+      "layout_id": "room_07_mirror",
+      "difficulty": "hard",
+      "start": [
+        0.2925064942242588,
+        0.9186619810440056
+      ],
+      "goal": [
+        0.7339578029042544,
+        0.913426268023658
+      ]
+    },
+    {
+      "id": "episode_61",
+      "layout_id": "room_08_original",
+      "difficulty": "hard",
+      "start": [
+        0.7121013643852249,
+        0.860144335516645
+      ],
+      "goal": [
+        0.2955750737970353,
+        0.8765949074994472
+      ]
+    },
+    {
+      "id": "episode_62",
+      "layout_id": "room_08_mirror",
+      "difficulty": "hard",
+      "start": [
+        0.28789863561477513,
+        0.860144335516645
+      ],
+      "goal": [
+        0.7044249262029647,
+        0.8765949074994472
+      ]
+    },
+    {
+      "id": "episode_63",
+      "layout_id": "room_08_original",
+      "difficulty": "hard",
+      "start": [
+        0.7634208986639025,
+        0.8457830777542177
+      ],
+      "goal": [
+        0.3382911600966163,
+        0.8826364880480209
+      ]
+    },
+    {
+      "id": "episode_64",
+      "layout_id": "room_08_mirror",
+      "difficulty": "hard",
+      "start": [
+        0.2365791013360975,
+        0.8457830777542177
+      ],
+      "goal": [
+        0.6617088399033837,
+        0.8826364880480209
+      ]
+    }
+  ]
+}

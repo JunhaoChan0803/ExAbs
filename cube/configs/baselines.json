@@ -1,0 +1,24 @@
+{
+  "lewm": {
+    "cem": {
+      "horizon": 5,
+      "receding_horizon": 5,
+      "action_block": 5,
+      "num_samples": 300,
+      "iterations": 30,
+      "topk": 30
+    }
+  },
+  "hwm_online": {
+    "high_horizon": 1
+  },
+  "hwm_staged": {
+    "high_horizon": 2
+  },
+  "empirical": {
+    "residual_scale": 0.1,
+    "min_residual_std": 0.001,
+    "return_top_candidates": 8,
+    "stage_sampling": "sequence"
+  }
+}

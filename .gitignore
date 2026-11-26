@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+outputs/
+results/
+*.log
+.DS_Store
+.env
+.env.*
+
+.venv-*/
+
+# Optional local copies of separately distributed training data.
+/datasets/two_room/
+/datasets/counter_flow/
+/datasets/cube/

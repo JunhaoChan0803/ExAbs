@@ -1,0 +1,4202 @@
+[
+  {
+    "budget": 250,
+    "goal": [
+      0.18952049923818015,
+      0.7638260466488412
+    ],
+    "id": "episode_000",
+    "layout": {
+      "band_height": 0.1261105881042646,
+      "band_y": 0.5478571960572619,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_00",
+      "mirror": false
+    },
+    "start": [
+      0.24510291586489813,
+      0.18868241572348515
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.8082162286661829,
+      0.7513264240575827
+    ],
+    "id": "episode_001",
+    "layout": {
+      "band_height": 0.1261105881042646,
+      "band_y": 0.5478571960572619,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_00",
+      "mirror": false
+    },
+    "start": [
+      0.8871231863631571,
+      0.2677285740549966
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.2011202748914363,
+      0.8732105060352776
+    ],
+    "id": "episode_002",
+    "layout": {
+      "band_height": 0.1261105881042646,
+      "band_y": 0.5478571960572619,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_00",
+      "mirror": false
+    },
+    "start": [
+      0.8742957055569749,
+      0.17120912231096574
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.5193743733802044,
+      0.9133372357682641
+    ],
+    "id": "episode_003",
+    "layout": {
+      "band_height": 0.1261105881042646,
+      "band_y": 0.5478571960572619,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_00",
+      "mirror": false
+    },
+    "start": [
+      0.128015022127608,
+      0.2622497807207751
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.7996880240470882,
+      0.7266291326131323
+    ],
+    "id": "episode_004",
+    "layout": {
+      "band_height": 0.1261105881042646,
+      "band_y": 0.5478571960572619,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_00",
+      "mirror": false
+    },
+    "start": [
+      0.863814778110258,
+      0.18424947923918492
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.8104795007618198,
+      0.7638260466488412
+    ],
+    "id": "episode_005",
+    "layout": {
+      "band_height": 0.1261105881042646,
+      "band_y": 0.5478571960572619,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_00",
+      "mirror": true
+    },
+    "start": [
+      0.7548970841351019,
+      0.18868241572348515
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.19178377133381708,
+      0.7513264240575827
+    ],
+    "id": "episode_006",
+    "layout": {
+      "band_height": 0.1261105881042646,
+      "band_y": 0.5478571960572619,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_00",
+      "mirror": true
+    },
+    "start": [
+      0.11287681363684288,
+      0.2677285740549966
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.7988797251085638,
+      0.8732105060352776
+    ],
+    "id": "episode_007",
+    "layout": {
+      "band_height": 0.1261105881042646,
+      "band_y": 0.5478571960572619,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_00",
+      "mirror": true
+    },
+    "start": [
+      0.1257042944430251,
+      0.17120912231096574
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.4806256266197956,
+      0.9133372357682641
+    ],
+    "id": "episode_008",
+    "layout": {
+      "band_height": 0.1261105881042646,
+      "band_y": 0.5478571960572619,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_00",
+      "mirror": true
+    },
+    "start": [
+      0.871984977872392,
+      0.2622497807207751
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.20031197595291184,
+      0.7266291326131323
+    ],
+    "id": "episode_009",
+    "layout": {
+      "band_height": 0.1261105881042646,
+      "band_y": 0.5478571960572619,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_00",
+      "mirror": true
+    },
+    "start": [
+      0.13618522188974203,
+      0.18424947923918492
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.25599961024882606,
+      0.8062733318032305
+    ],
+    "id": "episode_010",
+    "layout": {
+      "band_height": 0.12060826966854801,
+      "band_y": 0.4462670307597893,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_01",
+      "mirror": false
+    },
+    "start": [
+      0.21872861017761025,
+      0.1956013923415224
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.2595152759686136,
+      0.696125950755403
+    ],
+    "id": "episode_011",
+    "layout": {
+      "band_height": 0.12060826966854801,
+      "band_y": 0.4462670307597893,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_01",
+      "mirror": false
+    },
+    "start": [
+      0.8559607230167372,
+      0.1831847893842224
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.26023767032624445,
+      0.8294636150123085
+    ],
+    "id": "episode_012",
+    "layout": {
+      "band_height": 0.12060826966854801,
+      "band_y": 0.4462670307597893,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_01",
+      "mirror": false
+    },
+    "start": [
+      0.3155855755389094,
+      0.158097555075914
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.7314542719942015,
+      0.8286061639256735
+    ],
+    "id": "episode_013",
+    "layout": {
+      "band_height": 0.12060826966854801,
+      "band_y": 0.4462670307597893,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_01",
+      "mirror": false
+    },
+    "start": [
+      0.3905159524492151,
+      0.25586478212663144
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.7414791181650271,
+      0.6260370827530082
+    ],
+    "id": "episode_014",
+    "layout": {
+      "band_height": 0.12060826966854801,
+      "band_y": 0.4462670307597893,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_01",
+      "mirror": false
+    },
+    "start": [
+      0.7604482804007022,
+      0.27253406553231685
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.744000389751174,
+      0.8062733318032305
+    ],
+    "id": "episode_015",
+    "layout": {
+      "band_height": 0.12060826966854801,
+      "band_y": 0.4462670307597893,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_01",
+      "mirror": true
+    },
+    "start": [
+      0.7812713898223898,
+      0.1956013923415224
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.7404847240313863,
+      0.696125950755403
+    ],
+    "id": "episode_016",
+    "layout": {
+      "band_height": 0.12060826966854801,
+      "band_y": 0.4462670307597893,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_01",
+      "mirror": true
+    },
+    "start": [
+      0.1440392769832628,
+      0.1831847893842224
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.7397623296737555,
+      0.8294636150123085
+    ],
+    "id": "episode_017",
+    "layout": {
+      "band_height": 0.12060826966854801,
+      "band_y": 0.4462670307597893,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_01",
+      "mirror": true
+    },
+    "start": [
+      0.6844144244610906,
+      0.158097555075914
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.26854572800579846,
+      0.8286061639256735
+    ],
+    "id": "episode_018",
+    "layout": {
+      "band_height": 0.12060826966854801,
+      "band_y": 0.4462670307597893,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_01",
+      "mirror": true
+    },
+    "start": [
+      0.6094840475507849,
+      0.25586478212663144
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.2585208818349729,
+      0.6260370827530082
+    ],
+    "id": "episode_019",
+    "layout": {
+      "band_height": 0.12060826966854801,
+      "band_y": 0.4462670307597893,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_01",
+      "mirror": true
+    },
+    "start": [
+      0.23955171959929777,
+      0.27253406553231685
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.382822267416518,
+      0.9190558725253075
+    ],
+    "id": "episode_020",
+    "layout": {
+      "band_height": 0.14983572060728018,
+      "band_y": 0.5597600839647712,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_02",
+      "mirror": false
+    },
+    "start": [
+      0.3757222342156613,
+      0.2991558239836919
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.2550211025831839,
+      0.7472926755062979
+    ],
+    "id": "episode_021",
+    "layout": {
+      "band_height": 0.14983572060728018,
+      "band_y": 0.5597600839647712,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_02",
+      "mirror": false
+    },
+    "start": [
+      0.7742832697650547,
+      0.2777145296454406
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.5012487415680961,
+      0.7489138346270323
+    ],
+    "id": "episode_022",
+    "layout": {
+      "band_height": 0.14983572060728018,
+      "band_y": 0.5597600839647712,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_02",
+      "mirror": false
+    },
+    "start": [
+      0.3010142031764679,
+      0.24549726932754667
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.20908280416665398,
+      0.782712313315688
+    ],
+    "id": "episode_023",
+    "layout": {
+      "band_height": 0.14983572060728018,
+      "band_y": 0.5597600839647712,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_02",
+      "mirror": false
+    },
+    "start": [
+      0.2273604348435752,
+      0.3628407853070447
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.7388779637834876,
+      0.8395018972185101
+    ],
+    "id": "episode_024",
+    "layout": {
+      "band_height": 0.14983572060728018,
+      "band_y": 0.5597600839647712,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_02",
+      "mirror": false
+    },
+    "start": [
+      0.5435971081090389,
+      0.3041980273646707
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.617177732583482,
+      0.9190558725253075
+    ],
+    "id": "episode_025",
+    "layout": {
+      "band_height": 0.14983572060728018,
+      "band_y": 0.5597600839647712,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_02",
+      "mirror": true
+    },
+    "start": [
+      0.6242777657843387,
+      0.2991558239836919
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.7449788974168161,
+      0.7472926755062979
+    ],
+    "id": "episode_026",
+    "layout": {
+      "band_height": 0.14983572060728018,
+      "band_y": 0.5597600839647712,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_02",
+      "mirror": true
+    },
+    "start": [
+      0.22571673023494532,
+      0.2777145296454406
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.49875125843190393,
+      0.7489138346270323
+    ],
+    "id": "episode_027",
+    "layout": {
+      "band_height": 0.14983572060728018,
+      "band_y": 0.5597600839647712,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_02",
+      "mirror": true
+    },
+    "start": [
+      0.6989857968235321,
+      0.24549726932754667
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.7909171958333461,
+      0.782712313315688
+    ],
+    "id": "episode_028",
+    "layout": {
+      "band_height": 0.14983572060728018,
+      "band_y": 0.5597600839647712,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_02",
+      "mirror": true
+    },
+    "start": [
+      0.7726395651564248,
+      0.3628407853070447
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.2611220362165124,
+      0.8395018972185101
+    ],
+    "id": "episode_029",
+    "layout": {
+      "band_height": 0.14983572060728018,
+      "band_y": 0.5597600839647712,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_02",
+      "mirror": true
+    },
+    "start": [
+      0.45640289189096106,
+      0.3041980273646707
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.3955794541760237,
+      0.6887198308110088
+    ],
+    "id": "episode_030",
+    "layout": {
+      "band_height": 0.1499053845765784,
+      "band_y": 0.4942114009897783,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_03",
+      "mirror": false
+    },
+    "start": [
+      0.4074649356201987,
+      0.08775005472628228
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.18658053186344958,
+      0.8845903624246303
+    ],
+    "id": "episode_031",
+    "layout": {
+      "band_height": 0.1499053845765784,
+      "band_y": 0.4942114009897783,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_03",
+      "mirror": false
+    },
+    "start": [
+      0.19710565737627103,
+      0.30348346851929053
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.4793521500897375,
+      0.7707977055734446
+    ],
+    "id": "episode_032",
+    "layout": {
+      "band_height": 0.1499053845765784,
+      "band_y": 0.4942114009897783,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_03",
+      "mirror": false
+    },
+    "start": [
+      0.629135325333116,
+      0.1357860491283658
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.25257439810403826,
+      0.8294254425212815
+    ],
+    "id": "episode_033",
+    "layout": {
+      "band_height": 0.1499053845765784,
+      "band_y": 0.4942114009897783,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_03",
+      "mirror": false
+    },
+    "start": [
+      0.5583755356332626,
+      0.22108536745170726
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.44527949948016643,
+      0.7428942733464587
+    ],
+    "id": "episode_034",
+    "layout": {
+      "band_height": 0.1499053845765784,
+      "band_y": 0.4942114009897783,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_03",
+      "mirror": false
+    },
+    "start": [
+      0.2687576691970329,
+      0.27211220766104327
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.6044205458239763,
+      0.6887198308110088
+    ],
+    "id": "episode_035",
+    "layout": {
+      "band_height": 0.1499053845765784,
+      "band_y": 0.4942114009897783,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_03",
+      "mirror": true
+    },
+    "start": [
+      0.5925350643798013,
+      0.08775005472628228
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.8134194681365504,
+      0.8845903624246303
+    ],
+    "id": "episode_036",
+    "layout": {
+      "band_height": 0.1499053845765784,
+      "band_y": 0.4942114009897783,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_03",
+      "mirror": true
+    },
+    "start": [
+      0.8028943426237289,
+      0.30348346851929053
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.5206478499102625,
+      0.7707977055734446
+    ],
+    "id": "episode_037",
+    "layout": {
+      "band_height": 0.1499053845765784,
+      "band_y": 0.4942114009897783,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_03",
+      "mirror": true
+    },
+    "start": [
+      0.370864674666884,
+      0.1357860491283658
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.7474256018959617,
+      0.8294254425212815
+    ],
+    "id": "episode_038",
+    "layout": {
+      "band_height": 0.1499053845765784,
+      "band_y": 0.4942114009897783,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_03",
+      "mirror": true
+    },
+    "start": [
+      0.4416244643667374,
+      0.22108536745170726
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.5547205005198336,
+      0.7428942733464587
+    ],
+    "id": "episode_039",
+    "layout": {
+      "band_height": 0.1499053845765784,
+      "band_y": 0.4942114009897783,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_03",
+      "mirror": true
+    },
+    "start": [
+      0.7312423308029671,
+      0.27211220766104327
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.3552932102098224,
+      0.6763147022286695
+    ],
+    "id": "episode_040",
+    "layout": {
+      "band_height": 0.1229784569447433,
+      "band_y": 0.4950137220563554,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_04",
+      "mirror": false
+    },
+    "start": [
+      0.13635597464546603,
+      0.256486350830795
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.10909169776320114,
+      0.8393157561595158
+    ],
+    "id": "episode_041",
+    "layout": {
+      "band_height": 0.1229784569447433,
+      "band_y": 0.4950137220563554,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_04",
+      "mirror": false
+    },
+    "start": [
+      0.7094082472281996,
+      0.18870094048737862
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.5999969722267865,
+      0.9004093458708972
+    ],
+    "id": "episode_042",
+    "layout": {
+      "band_height": 0.1229784569447433,
+      "band_y": 0.4950137220563554,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_04",
+      "mirror": false
+    },
+    "start": [
+      0.7542742773434788,
+      0.10158512515189712
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.8898566720870847,
+      0.9010629635597268
+    ],
+    "id": "episode_043",
+    "layout": {
+      "band_height": 0.1229784569447433,
+      "band_y": 0.4950137220563554,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_04",
+      "mirror": false
+    },
+    "start": [
+      0.29097740533852834,
+      0.11824920189637544
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.20707312257043525,
+      0.7013638859239073
+    ],
+    "id": "episode_044",
+    "layout": {
+      "band_height": 0.1229784569447433,
+      "band_y": 0.4950137220563554,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_04",
+      "mirror": false
+    },
+    "start": [
+      0.2871934794587805,
+      0.1735104786762291
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.6447067897901776,
+      0.6763147022286695
+    ],
+    "id": "episode_045",
+    "layout": {
+      "band_height": 0.1229784569447433,
+      "band_y": 0.4950137220563554,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_04",
+      "mirror": true
+    },
+    "start": [
+      0.863644025354534,
+      0.256486350830795
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.8909083022367988,
+      0.8393157561595158
+    ],
+    "id": "episode_046",
+    "layout": {
+      "band_height": 0.1229784569447433,
+      "band_y": 0.4950137220563554,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_04",
+      "mirror": true
+    },
+    "start": [
+      0.2905917527718004,
+      0.18870094048737862
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.4000030277732135,
+      0.9004093458708972
+    ],
+    "id": "episode_047",
+    "layout": {
+      "band_height": 0.1229784569447433,
+      "band_y": 0.4950137220563554,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_04",
+      "mirror": true
+    },
+    "start": [
+      0.24572572265652115,
+      0.10158512515189712
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.11014332791291526,
+      0.9010629635597268
+    ],
+    "id": "episode_048",
+    "layout": {
+      "band_height": 0.1229784569447433,
+      "band_y": 0.4950137220563554,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_04",
+      "mirror": true
+    },
+    "start": [
+      0.7090225946614717,
+      0.11824920189637544
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.7929268774295648,
+      0.7013638859239073
+    ],
+    "id": "episode_049",
+    "layout": {
+      "band_height": 0.1229784569447433,
+      "band_y": 0.4950137220563554,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_04",
+      "mirror": true
+    },
+    "start": [
+      0.7128065205412195,
+      0.1735104786762291
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.5000489983625703,
+      0.7826173193873533
+    ],
+    "id": "episode_050",
+    "layout": {
+      "band_height": 0.1308322265623566,
+      "band_y": 0.5124218089620616,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_05",
+      "mirror": false
+    },
+    "start": [
+      0.8562855598112743,
+      0.11815439011478296
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.7515290262354103,
+      0.7914179241208869
+    ],
+    "id": "episode_051",
+    "layout": {
+      "band_height": 0.1308322265623566,
+      "band_y": 0.5124218089620616,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_05",
+      "mirror": false
+    },
+    "start": [
+      0.5927070843597283,
+      0.2657387781851718
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.1655176774697567,
+      0.9029306618628563
+    ],
+    "id": "episode_052",
+    "layout": {
+      "band_height": 0.1308322265623566,
+      "band_y": 0.5124218089620616,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_05",
+      "mirror": false
+    },
+    "start": [
+      0.4201415317176156,
+      0.15044853934475289
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.227389038584475,
+      0.8823889580135522
+    ],
+    "id": "episode_053",
+    "layout": {
+      "band_height": 0.1308322265623566,
+      "band_y": 0.5124218089620616,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_05",
+      "mirror": false
+    },
+    "start": [
+      0.13089378928372186,
+      0.26627603171691916
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.7223817294542292,
+      0.686031158916243
+    ],
+    "id": "episode_054",
+    "layout": {
+      "band_height": 0.1308322265623566,
+      "band_y": 0.5124218089620616,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_05",
+      "mirror": false
+    },
+    "start": [
+      0.5791119711917354,
+      0.3341498193396743
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.49995100163742967,
+      0.7826173193873533
+    ],
+    "id": "episode_055",
+    "layout": {
+      "band_height": 0.1308322265623566,
+      "band_y": 0.5124218089620616,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_05",
+      "mirror": true
+    },
+    "start": [
+      0.1437144401887257,
+      0.11815439011478296
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.2484709737645897,
+      0.7914179241208869
+    ],
+    "id": "episode_056",
+    "layout": {
+      "band_height": 0.1308322265623566,
+      "band_y": 0.5124218089620616,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_05",
+      "mirror": true
+    },
+    "start": [
+      0.4072929156402717,
+      0.2657387781851718
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.8344823225302433,
+      0.9029306618628563
+    ],
+    "id": "episode_057",
+    "layout": {
+      "band_height": 0.1308322265623566,
+      "band_y": 0.5124218089620616,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_05",
+      "mirror": true
+    },
+    "start": [
+      0.5798584682823844,
+      0.15044853934475289
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.772610961415525,
+      0.8823889580135522
+    ],
+    "id": "episode_058",
+    "layout": {
+      "band_height": 0.1308322265623566,
+      "band_y": 0.5124218089620616,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_05",
+      "mirror": true
+    },
+    "start": [
+      0.8691062107162781,
+      0.26627603171691916
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.2776182705457708,
+      0.686031158916243
+    ],
+    "id": "episode_059",
+    "layout": {
+      "band_height": 0.1308322265623566,
+      "band_y": 0.5124218089620616,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_05",
+      "mirror": true
+    },
+    "start": [
+      0.4208880288082646,
+      0.3341498193396743
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.22396994126417485,
+      0.7745821137099955
+    ],
+    "id": "episode_060",
+    "layout": {
+      "band_height": 0.13768138004363245,
+      "band_y": 0.47975248227244494,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_06",
+      "mirror": false
+    },
+    "start": [
+      0.7974935115928202,
+      0.07435415303245609
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.6288480302491716,
+      0.881361672309058
+    ],
+    "id": "episode_061",
+    "layout": {
+      "band_height": 0.13768138004363245,
+      "band_y": 0.47975248227244494,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_06",
+      "mirror": false
+    },
+    "start": [
+      0.39903429356250697,
+      0.10101445203194337
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.8473015445489568,
+      0.8621632383742446
+    ],
+    "id": "episode_062",
+    "layout": {
+      "band_height": 0.13768138004363245,
+      "band_y": 0.47975248227244494,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_06",
+      "mirror": false
+    },
+    "start": [
+      0.7987712152701045,
+      0.2991626624733534
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.2642746064118798,
+      0.7940564712542955
+    ],
+    "id": "episode_063",
+    "layout": {
+      "band_height": 0.13768138004363245,
+      "band_y": 0.47975248227244494,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_06",
+      "mirror": false
+    },
+    "start": [
+      0.6701612675248871,
+      0.31001488354831636
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.13807782233786903,
+      0.6539512007475662
+    ],
+    "id": "episode_064",
+    "layout": {
+      "band_height": 0.13768138004363245,
+      "band_y": 0.47975248227244494,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_06",
+      "mirror": false
+    },
+    "start": [
+      0.18321986895453632,
+      0.2793451370335983
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.7760300587358251,
+      0.7745821137099955
+    ],
+    "id": "episode_065",
+    "layout": {
+      "band_height": 0.13768138004363245,
+      "band_y": 0.47975248227244494,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_06",
+      "mirror": true
+    },
+    "start": [
+      0.20250648840717977,
+      0.07435415303245609
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.3711519697508284,
+      0.881361672309058
+    ],
+    "id": "episode_066",
+    "layout": {
+      "band_height": 0.13768138004363245,
+      "band_y": 0.47975248227244494,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_06",
+      "mirror": true
+    },
+    "start": [
+      0.600965706437493,
+      0.10101445203194337
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.1526984554510432,
+      0.8621632383742446
+    ],
+    "id": "episode_067",
+    "layout": {
+      "band_height": 0.13768138004363245,
+      "band_y": 0.47975248227244494,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_06",
+      "mirror": true
+    },
+    "start": [
+      0.20122878472989547,
+      0.2991626624733534
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.7357253935881203,
+      0.7940564712542955
+    ],
+    "id": "episode_068",
+    "layout": {
+      "band_height": 0.13768138004363245,
+      "band_y": 0.47975248227244494,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_06",
+      "mirror": true
+    },
+    "start": [
+      0.32983873247511286,
+      0.31001488354831636
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.861922177662131,
+      0.6539512007475662
+    ],
+    "id": "episode_069",
+    "layout": {
+      "band_height": 0.13768138004363245,
+      "band_y": 0.47975248227244494,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_06",
+      "mirror": true
+    },
+    "start": [
+      0.8167801310454637,
+      0.2793451370335983
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.15293652962367893,
+      0.8883276167132825
+    ],
+    "id": "episode_070",
+    "layout": {
+      "band_height": 0.12946982695026696,
+      "band_y": 0.5451670436992684,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_07",
+      "mirror": false
+    },
+    "start": [
+      0.4810109993875027,
+      0.2295921768610629
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.31202153114013637,
+      0.8661242192162926
+    ],
+    "id": "episode_071",
+    "layout": {
+      "band_height": 0.12946982695026696,
+      "band_y": 0.5451670436992684,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_07",
+      "mirror": false
+    },
+    "start": [
+      0.598306900539622,
+      0.22659396504998472
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.667324693568179,
+      0.7967383582640689
+    ],
+    "id": "episode_072",
+    "layout": {
+      "band_height": 0.12946982695026696,
+      "band_y": 0.5451670436992684,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_07",
+      "mirror": false
+    },
+    "start": [
+      0.6089068298636997,
+      0.23145122149265313
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.5782306806577703,
+      0.7115446864231885
+    ],
+    "id": "episode_073",
+    "layout": {
+      "band_height": 0.12946982695026696,
+      "band_y": 0.5451670436992684,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_07",
+      "mirror": false
+    },
+    "start": [
+      0.11220273934101127,
+      0.10803033760379198
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.45479516025214556,
+      0.9281172179335069
+    ],
+    "id": "episode_074",
+    "layout": {
+      "band_height": 0.12946982695026696,
+      "band_y": 0.5451670436992684,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_07",
+      "mirror": false
+    },
+    "start": [
+      0.587194992710643,
+      0.25641503344717065
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.8470634703763211,
+      0.8883276167132825
+    ],
+    "id": "episode_075",
+    "layout": {
+      "band_height": 0.12946982695026696,
+      "band_y": 0.5451670436992684,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_07",
+      "mirror": true
+    },
+    "start": [
+      0.5189890006124973,
+      0.2295921768610629
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.6879784688598636,
+      0.8661242192162926
+    ],
+    "id": "episode_076",
+    "layout": {
+      "band_height": 0.12946982695026696,
+      "band_y": 0.5451670436992684,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_07",
+      "mirror": true
+    },
+    "start": [
+      0.401693099460378,
+      0.22659396504998472
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.33267530643182097,
+      0.7967383582640689
+    ],
+    "id": "episode_077",
+    "layout": {
+      "band_height": 0.12946982695026696,
+      "band_y": 0.5451670436992684,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_07",
+      "mirror": true
+    },
+    "start": [
+      0.3910931701363003,
+      0.23145122149265313
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.4217693193422297,
+      0.7115446864231885
+    ],
+    "id": "episode_078",
+    "layout": {
+      "band_height": 0.12946982695026696,
+      "band_y": 0.5451670436992684,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_07",
+      "mirror": true
+    },
+    "start": [
+      0.8877972606589888,
+      0.10803033760379198
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.5452048397478544,
+      0.9281172179335069
+    ],
+    "id": "episode_079",
+    "layout": {
+      "band_height": 0.12946982695026696,
+      "band_y": 0.5451670436992684,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_07",
+      "mirror": true
+    },
+    "start": [
+      0.412805007289357,
+      0.25641503344717065
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.557959003500184,
+      0.635191538229438
+    ],
+    "id": "episode_080",
+    "layout": {
+      "band_height": 0.12127216132894722,
+      "band_y": 0.45758138832263423,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_08",
+      "mirror": false
+    },
+    "start": [
+      0.6319889828261315,
+      0.18523720493562773
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.8247502783274187,
+      0.6884701667096679
+    ],
+    "id": "episode_081",
+    "layout": {
+      "band_height": 0.12127216132894722,
+      "band_y": 0.45758138832263423,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_08",
+      "mirror": false
+    },
+    "start": [
+      0.1627045207047731,
+      0.0887487367917108
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.649630827052987,
+      0.8886908020976182
+    ],
+    "id": "episode_082",
+    "layout": {
+      "band_height": 0.12127216132894722,
+      "band_y": 0.45758138832263423,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_08",
+      "mirror": false
+    },
+    "start": [
+      0.6453713262062247,
+      0.18388243710585683
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.5486447338256532,
+      0.7204210863839936
+    ],
+    "id": "episode_083",
+    "layout": {
+      "band_height": 0.12127216132894722,
+      "band_y": 0.45758138832263423,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_08",
+      "mirror": false
+    },
+    "start": [
+      0.340914497845476,
+      0.22316317632125685
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.668558668493023,
+      0.7152862130611607
+    ],
+    "id": "episode_084",
+    "layout": {
+      "band_height": 0.12127216132894722,
+      "band_y": 0.45758138832263423,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_08",
+      "mirror": false
+    },
+    "start": [
+      0.5500797224142527,
+      0.12322587813785399
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.442040996499816,
+      0.635191538229438
+    ],
+    "id": "episode_085",
+    "layout": {
+      "band_height": 0.12127216132894722,
+      "band_y": 0.45758138832263423,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_08",
+      "mirror": true
+    },
+    "start": [
+      0.3680110171738685,
+      0.18523720493562773
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.17524972167258135,
+      0.6884701667096679
+    ],
+    "id": "episode_086",
+    "layout": {
+      "band_height": 0.12127216132894722,
+      "band_y": 0.45758138832263423,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_08",
+      "mirror": true
+    },
+    "start": [
+      0.837295479295227,
+      0.0887487367917108
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.350369172947013,
+      0.8886908020976182
+    ],
+    "id": "episode_087",
+    "layout": {
+      "band_height": 0.12127216132894722,
+      "band_y": 0.45758138832263423,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_08",
+      "mirror": true
+    },
+    "start": [
+      0.3546286737937753,
+      0.18388243710585683
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.45135526617434685,
+      0.7204210863839936
+    ],
+    "id": "episode_088",
+    "layout": {
+      "band_height": 0.12127216132894722,
+      "band_y": 0.45758138832263423,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_08",
+      "mirror": true
+    },
+    "start": [
+      0.659085502154524,
+      0.22316317632125685
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.33144133150697697,
+      0.7152862130611607
+    ],
+    "id": "episode_089",
+    "layout": {
+      "band_height": 0.12127216132894722,
+      "band_y": 0.45758138832263423,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_08",
+      "mirror": true
+    },
+    "start": [
+      0.44992027758574726,
+      0.12322587813785399
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.3241762782582086,
+      0.779201413981907
+    ],
+    "id": "episode_090",
+    "layout": {
+      "band_height": 0.1345199662231466,
+      "band_y": 0.45546269128568445,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_09",
+      "mirror": false
+    },
+    "start": [
+      0.10536051184061962,
+      0.16674244735529503
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.8130280708775083,
+      0.6251237669537384
+    ],
+    "id": "episode_091",
+    "layout": {
+      "band_height": 0.1345199662231466,
+      "band_y": 0.45546269128568445,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_09",
+      "mirror": false
+    },
+    "start": [
+      0.5418558365626509,
+      0.24343894493844098
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.5558128794389465,
+      0.8922906853615251
+    ],
+    "id": "episode_092",
+    "layout": {
+      "band_height": 0.1345199662231466,
+      "band_y": 0.45546269128568445,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_09",
+      "mirror": false
+    },
+    "start": [
+      0.33488706605418994,
+      0.09854502169801264
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.6686466962947418,
+      0.9251115969069674
+    ],
+    "id": "episode_093",
+    "layout": {
+      "band_height": 0.1345199662231466,
+      "band_y": 0.45546269128568445,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_09",
+      "mirror": false
+    },
+    "start": [
+      0.7003718062102932,
+      0.2014820711678531
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.8822615414836323,
+      0.7977368937149787
+    ],
+    "id": "episode_094",
+    "layout": {
+      "band_height": 0.1345199662231466,
+      "band_y": 0.45546269128568445,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_09",
+      "mirror": false
+    },
+    "start": [
+      0.8158612070750897,
+      0.2359613529875624
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.6758237217417914,
+      0.779201413981907
+    ],
+    "id": "episode_095",
+    "layout": {
+      "band_height": 0.1345199662231466,
+      "band_y": 0.45546269128568445,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_09",
+      "mirror": true
+    },
+    "start": [
+      0.8946394881593804,
+      0.16674244735529503
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.18697192912249172,
+      0.6251237669537384
+    ],
+    "id": "episode_096",
+    "layout": {
+      "band_height": 0.1345199662231466,
+      "band_y": 0.45546269128568445,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_09",
+      "mirror": true
+    },
+    "start": [
+      0.4581441634373491,
+      0.24343894493844098
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.4441871205610535,
+      0.8922906853615251
+    ],
+    "id": "episode_097",
+    "layout": {
+      "band_height": 0.1345199662231466,
+      "band_y": 0.45546269128568445,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_09",
+      "mirror": true
+    },
+    "start": [
+      0.6651129339458101,
+      0.09854502169801264
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.3313533037052582,
+      0.9251115969069674
+    ],
+    "id": "episode_098",
+    "layout": {
+      "band_height": 0.1345199662231466,
+      "band_y": 0.45546269128568445,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_09",
+      "mirror": true
+    },
+    "start": [
+      0.29962819378970684,
+      0.2014820711678531
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.11773845851636766,
+      0.7977368937149787
+    ],
+    "id": "episode_099",
+    "layout": {
+      "band_height": 0.1345199662231466,
+      "band_y": 0.45546269128568445,
+      "current_strength": 1.25,
+      "difficulty": "medium",
+      "gap_width": 0.08,
+      "group": "layout_09",
+      "mirror": true
+    },
+    "start": [
+      0.1841387929249103,
+      0.2359613529875624
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.0879805130603557,
+      0.8283538707230018
+    ],
+    "id": "episode_100",
+    "layout": {
+      "band_height": 0.1549229130725409,
+      "band_y": 0.552677037955238,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_10",
+      "mirror": false
+    },
+    "start": [
+      0.46302677324406327,
+      0.29182715692645644
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.36343904281455275,
+      0.9076842005746677
+    ],
+    "id": "episode_101",
+    "layout": {
+      "band_height": 0.1549229130725409,
+      "band_y": 0.552677037955238,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_10",
+      "mirror": false
+    },
+    "start": [
+      0.34981638769134565,
+      0.11196973771161696
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.19863282050516373,
+      0.7706301904802508
+    ],
+    "id": "episode_102",
+    "layout": {
+      "band_height": 0.1549229130725409,
+      "band_y": 0.552677037955238,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_10",
+      "mirror": false
+    },
+    "start": [
+      0.16942652358554167,
+      0.1737822288154475
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.25864209746501965,
+      0.8067452783060548
+    ],
+    "id": "episode_103",
+    "layout": {
+      "band_height": 0.1549229130725409,
+      "band_y": 0.552677037955238,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_10",
+      "mirror": false
+    },
+    "start": [
+      0.4096717992392973,
+      0.33845653963288913
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.4448043930972396,
+      0.8264611534115074
+    ],
+    "id": "episode_104",
+    "layout": {
+      "band_height": 0.1549229130725409,
+      "band_y": 0.552677037955238,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_10",
+      "mirror": false
+    },
+    "start": [
+      0.26378362536040556,
+      0.14743217935777891
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.9120194869396443,
+      0.8283538707230018
+    ],
+    "id": "episode_105",
+    "layout": {
+      "band_height": 0.1549229130725409,
+      "band_y": 0.552677037955238,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_10",
+      "mirror": true
+    },
+    "start": [
+      0.5369732267559367,
+      0.29182715692645644
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.6365609571854473,
+      0.9076842005746677
+    ],
+    "id": "episode_106",
+    "layout": {
+      "band_height": 0.1549229130725409,
+      "band_y": 0.552677037955238,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_10",
+      "mirror": true
+    },
+    "start": [
+      0.6501836123086544,
+      0.11196973771161696
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.8013671794948363,
+      0.7706301904802508
+    ],
+    "id": "episode_107",
+    "layout": {
+      "band_height": 0.1549229130725409,
+      "band_y": 0.552677037955238,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_10",
+      "mirror": true
+    },
+    "start": [
+      0.8305734764144583,
+      0.1737822288154475
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.7413579025349804,
+      0.8067452783060548
+    ],
+    "id": "episode_108",
+    "layout": {
+      "band_height": 0.1549229130725409,
+      "band_y": 0.552677037955238,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_10",
+      "mirror": true
+    },
+    "start": [
+      0.5903282007607027,
+      0.33845653963288913
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.5551956069027604,
+      0.8264611534115074
+    ],
+    "id": "episode_109",
+    "layout": {
+      "band_height": 0.1549229130725409,
+      "band_y": 0.552677037955238,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_10",
+      "mirror": true
+    },
+    "start": [
+      0.7362163746395944,
+      0.14743217935777891
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.7452970261467211,
+      0.8217172689648369
+    ],
+    "id": "episode_110",
+    "layout": {
+      "band_height": 0.15513345700294184,
+      "band_y": 0.5018157715373085,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_11",
+      "mirror": false
+    },
+    "start": [
+      0.13995119888433838,
+      0.10125037606280936
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.15532634807162357,
+      0.7170168091359753
+    ],
+    "id": "episode_111",
+    "layout": {
+      "band_height": 0.15513345700294184,
+      "band_y": 0.5018157715373085,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_11",
+      "mirror": false
+    },
+    "start": [
+      0.44266418314539024,
+      0.30139800478142587
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.8729383340135853,
+      0.7726739218193728
+    ],
+    "id": "episode_112",
+    "layout": {
+      "band_height": 0.15513345700294184,
+      "band_y": 0.5018157715373085,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_11",
+      "mirror": false
+    },
+    "start": [
+      0.14972905528092204,
+      0.2906785056449689
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.3002775831786795,
+      0.8737161311046328
+    ],
+    "id": "episode_113",
+    "layout": {
+      "band_height": 0.15513345700294184,
+      "band_y": 0.5018157715373085,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_11",
+      "mirror": false
+    },
+    "start": [
+      0.48378490695321585,
+      0.19729185940375338
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.09431977585138229,
+      0.7259849660434399
+    ],
+    "id": "episode_114",
+    "layout": {
+      "band_height": 0.15513345700294184,
+      "band_y": 0.5018157715373085,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_11",
+      "mirror": false
+    },
+    "start": [
+      0.15133490249284007,
+      0.19685909892708298
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.2547029738532789,
+      0.8217172689648369
+    ],
+    "id": "episode_115",
+    "layout": {
+      "band_height": 0.15513345700294184,
+      "band_y": 0.5018157715373085,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_11",
+      "mirror": true
+    },
+    "start": [
+      0.8600488011156616,
+      0.10125037606280936
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.8446736519283764,
+      0.7170168091359753
+    ],
+    "id": "episode_116",
+    "layout": {
+      "band_height": 0.15513345700294184,
+      "band_y": 0.5018157715373085,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_11",
+      "mirror": true
+    },
+    "start": [
+      0.5573358168546098,
+      0.30139800478142587
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.12706166598641466,
+      0.7726739218193728
+    ],
+    "id": "episode_117",
+    "layout": {
+      "band_height": 0.15513345700294184,
+      "band_y": 0.5018157715373085,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_11",
+      "mirror": true
+    },
+    "start": [
+      0.8502709447190779,
+      0.2906785056449689
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.6997224168213205,
+      0.8737161311046328
+    ],
+    "id": "episode_118",
+    "layout": {
+      "band_height": 0.15513345700294184,
+      "band_y": 0.5018157715373085,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_11",
+      "mirror": true
+    },
+    "start": [
+      0.5162150930467841,
+      0.19729185940375338
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.9056802241486177,
+      0.7259849660434399
+    ],
+    "id": "episode_119",
+    "layout": {
+      "band_height": 0.15513345700294184,
+      "band_y": 0.5018157715373085,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_11",
+      "mirror": true
+    },
+    "start": [
+      0.8486650975071599,
+      0.19685909892708298
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.4522205662950489,
+      0.8658272656134492
+    ],
+    "id": "episode_120",
+    "layout": {
+      "band_height": 0.15763284131876704,
+      "band_y": 0.5313307652285681,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_12",
+      "mirror": false
+    },
+    "start": [
+      0.6302696176415332,
+      0.3281630645332144
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.7530630838896359,
+      0.8686518700281838
+    ],
+    "id": "episode_121",
+    "layout": {
+      "band_height": 0.15763284131876704,
+      "band_y": 0.5313307652285681,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_12",
+      "mirror": false
+    },
+    "start": [
+      0.8290316065465093,
+      0.19906411359224432
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.9191018335971382,
+      0.7533459782109616
+    ],
+    "id": "episode_122",
+    "layout": {
+      "band_height": 0.15763284131876704,
+      "band_y": 0.5313307652285681,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_12",
+      "mirror": false
+    },
+    "start": [
+      0.3504011319539162,
+      0.10125825096935134
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.39274826065770985,
+      0.81683131820166
+    ],
+    "id": "episode_123",
+    "layout": {
+      "band_height": 0.15763284131876704,
+      "band_y": 0.5313307652285681,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_12",
+      "mirror": false
+    },
+    "start": [
+      0.1601706791723106,
+      0.1453444153970173
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.35474701434024214,
+      0.714229648971238
+    ],
+    "id": "episode_124",
+    "layout": {
+      "band_height": 0.15763284131876704,
+      "band_y": 0.5313307652285681,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_12",
+      "mirror": false
+    },
+    "start": [
+      0.5047453692991366,
+      0.3142738936362447
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.5477794337049511,
+      0.8658272656134492
+    ],
+    "id": "episode_125",
+    "layout": {
+      "band_height": 0.15763284131876704,
+      "band_y": 0.5313307652285681,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_12",
+      "mirror": true
+    },
+    "start": [
+      0.3697303823584668,
+      0.3281630645332144
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.24693691611036406,
+      0.8686518700281838
+    ],
+    "id": "episode_126",
+    "layout": {
+      "band_height": 0.15763284131876704,
+      "band_y": 0.5313307652285681,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_12",
+      "mirror": true
+    },
+    "start": [
+      0.17096839345349069,
+      0.19906411359224432
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.08089816640286185,
+      0.7533459782109616
+    ],
+    "id": "episode_127",
+    "layout": {
+      "band_height": 0.15763284131876704,
+      "band_y": 0.5313307652285681,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_12",
+      "mirror": true
+    },
+    "start": [
+      0.6495988680460838,
+      0.10125825096935134
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.6072517393422902,
+      0.81683131820166
+    ],
+    "id": "episode_128",
+    "layout": {
+      "band_height": 0.15763284131876704,
+      "band_y": 0.5313307652285681,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_12",
+      "mirror": true
+    },
+    "start": [
+      0.8398293208276895,
+      0.1453444153970173
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.6452529856597579,
+      0.714229648971238
+    ],
+    "id": "episode_129",
+    "layout": {
+      "band_height": 0.15763284131876704,
+      "band_y": 0.5313307652285681,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_12",
+      "mirror": true
+    },
+    "start": [
+      0.4952546307008634,
+      0.3142738936362447
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.8033329283389594,
+      0.82136558585808
+    ],
+    "id": "episode_130",
+    "layout": {
+      "band_height": 0.17505824090636427,
+      "band_y": 0.5111260352026121,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_13",
+      "mirror": false
+    },
+    "start": [
+      0.18136304643613654,
+      0.1704644559368674
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.10362028863834281,
+      0.799534944458902
+    ],
+    "id": "episode_131",
+    "layout": {
+      "band_height": 0.17505824090636427,
+      "band_y": 0.5111260352026121,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_13",
+      "mirror": false
+    },
+    "start": [
+      0.7106298528060283,
+      0.2156577822080005
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.8258005923487235,
+      0.7077533525896391
+    ],
+    "id": "episode_132",
+    "layout": {
+      "band_height": 0.17505824090636427,
+      "band_y": 0.5111260352026121,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_13",
+      "mirror": false
+    },
+    "start": [
+      0.46152149652767627,
+      0.2277800863263219
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.6985794668788076,
+      0.8153233589533304
+    ],
+    "id": "episode_133",
+    "layout": {
+      "band_height": 0.17505824090636427,
+      "band_y": 0.5111260352026121,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_13",
+      "mirror": false
+    },
+    "start": [
+      0.568521727837621,
+      0.15590049132523154
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.6727782607975847,
+      0.7305509385521202
+    ],
+    "id": "episode_134",
+    "layout": {
+      "band_height": 0.17505824090636427,
+      "band_y": 0.5111260352026121,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_13",
+      "mirror": false
+    },
+    "start": [
+      0.5321376636736928,
+      0.21651068460226444
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.19666707166104058,
+      0.82136558585808
+    ],
+    "id": "episode_135",
+    "layout": {
+      "band_height": 0.17505824090636427,
+      "band_y": 0.5111260352026121,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_13",
+      "mirror": true
+    },
+    "start": [
+      0.8186369535638635,
+      0.1704644559368674
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.8963797113616572,
+      0.799534944458902
+    ],
+    "id": "episode_136",
+    "layout": {
+      "band_height": 0.17505824090636427,
+      "band_y": 0.5111260352026121,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_13",
+      "mirror": true
+    },
+    "start": [
+      0.2893701471939717,
+      0.2156577822080005
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.1741994076512765,
+      0.7077533525896391
+    ],
+    "id": "episode_137",
+    "layout": {
+      "band_height": 0.17505824090636427,
+      "band_y": 0.5111260352026121,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_13",
+      "mirror": true
+    },
+    "start": [
+      0.5384785034723237,
+      0.2277800863263219
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.30142053312119244,
+      0.8153233589533304
+    ],
+    "id": "episode_138",
+    "layout": {
+      "band_height": 0.17505824090636427,
+      "band_y": 0.5111260352026121,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_13",
+      "mirror": true
+    },
+    "start": [
+      0.431478272162379,
+      0.15590049132523154
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.32722173920241526,
+      0.7305509385521202
+    ],
+    "id": "episode_139",
+    "layout": {
+      "band_height": 0.17505824090636427,
+      "band_y": 0.5111260352026121,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_13",
+      "mirror": true
+    },
+    "start": [
+      0.46786233632630725,
+      0.21651068460226444
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.2922584456326949,
+      0.8759744691847493
+    ],
+    "id": "episode_140",
+    "layout": {
+      "band_height": 0.16022800977605817,
+      "band_y": 0.5163142588869836,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_14",
+      "mirror": false
+    },
+    "start": [
+      0.662087875172662,
+      0.3119341991936447
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.24510309999863955,
+      0.8921319606379556
+    ],
+    "id": "episode_141",
+    "layout": {
+      "band_height": 0.16022800977605817,
+      "band_y": 0.5163142588869836,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_14",
+      "mirror": false
+    },
+    "start": [
+      0.10776303508732754,
+      0.2911400682031744
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.45314736035863284,
+      0.7083658273749563
+    ],
+    "id": "episode_142",
+    "layout": {
+      "band_height": 0.16022800977605817,
+      "band_y": 0.5163142588869836,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_14",
+      "mirror": false
+    },
+    "start": [
+      0.49669289710954556,
+      0.2000372714337048
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.6699777286672861,
+      0.8252895682672531
+    ],
+    "id": "episode_143",
+    "layout": {
+      "band_height": 0.16022800977605817,
+      "band_y": 0.5163142588869836,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_14",
+      "mirror": false
+    },
+    "start": [
+      0.5896716796766786,
+      0.21083289752090495
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.8513254268522393,
+      0.7930099292338311
+    ],
+    "id": "episode_144",
+    "layout": {
+      "band_height": 0.16022800977605817,
+      "band_y": 0.5163142588869836,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_14",
+      "mirror": false
+    },
+    "start": [
+      0.8070301175763419,
+      0.2631553081356292
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.7077415543673051,
+      0.8759744691847493
+    ],
+    "id": "episode_145",
+    "layout": {
+      "band_height": 0.16022800977605817,
+      "band_y": 0.5163142588869836,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_14",
+      "mirror": true
+    },
+    "start": [
+      0.337912124827338,
+      0.3119341991936447
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.7548969000013604,
+      0.8921319606379556
+    ],
+    "id": "episode_146",
+    "layout": {
+      "band_height": 0.16022800977605817,
+      "band_y": 0.5163142588869836,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_14",
+      "mirror": true
+    },
+    "start": [
+      0.8922369649126725,
+      0.2911400682031744
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.5468526396413671,
+      0.7083658273749563
+    ],
+    "id": "episode_147",
+    "layout": {
+      "band_height": 0.16022800977605817,
+      "band_y": 0.5163142588869836,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_14",
+      "mirror": true
+    },
+    "start": [
+      0.5033071028904544,
+      0.2000372714337048
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.3300222713327139,
+      0.8252895682672531
+    ],
+    "id": "episode_148",
+    "layout": {
+      "band_height": 0.16022800977605817,
+      "band_y": 0.5163142588869836,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_14",
+      "mirror": true
+    },
+    "start": [
+      0.41032832032332145,
+      0.21083289752090495
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.14867457314776067,
+      0.7930099292338311
+    ],
+    "id": "episode_149",
+    "layout": {
+      "band_height": 0.16022800977605817,
+      "band_y": 0.5163142588869836,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_14",
+      "mirror": true
+    },
+    "start": [
+      0.1929698824236581,
+      0.2631553081356292
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.7187454876810385,
+      0.821154791579882
+    ],
+    "id": "episode_150",
+    "layout": {
+      "band_height": 0.16142158629013237,
+      "band_y": 0.44329235484047863,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_15",
+      "mirror": false
+    },
+    "start": [
+      0.7624553455926308,
+      0.07303772709664255
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.6545999117495437,
+      0.8214985135363069
+    ],
+    "id": "episode_151",
+    "layout": {
+      "band_height": 0.16142158629013237,
+      "band_y": 0.44329235484047863,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_15",
+      "mirror": false
+    },
+    "start": [
+      0.2858558258783297,
+      0.14576478262643683
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.1954434118727521,
+      0.8399139275939377
+    ],
+    "id": "episode_152",
+    "layout": {
+      "band_height": 0.16142158629013237,
+      "band_y": 0.44329235484047863,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_15",
+      "mirror": false
+    },
+    "start": [
+      0.5354750244044758,
+      0.16863162789350475
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.2298676372660418,
+      0.6429508568636284
+    ],
+    "id": "episode_153",
+    "layout": {
+      "band_height": 0.16142158629013237,
+      "band_y": 0.44329235484047863,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_15",
+      "mirror": false
+    },
+    "start": [
+      0.5723050429874239,
+      0.22385341381570376
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.4949649363926235,
+      0.9015323988498021
+    ],
+    "id": "episode_154",
+    "layout": {
+      "band_height": 0.16142158629013237,
+      "band_y": 0.44329235484047863,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_15",
+      "mirror": false
+    },
+    "start": [
+      0.785475941386512,
+      0.19113348168107896
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.2812545123189615,
+      0.821154791579882
+    ],
+    "id": "episode_155",
+    "layout": {
+      "band_height": 0.16142158629013237,
+      "band_y": 0.44329235484047863,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_15",
+      "mirror": true
+    },
+    "start": [
+      0.23754465440736916,
+      0.07303772709664255
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.3454000882504563,
+      0.8214985135363069
+    ],
+    "id": "episode_156",
+    "layout": {
+      "band_height": 0.16142158629013237,
+      "band_y": 0.44329235484047863,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_15",
+      "mirror": true
+    },
+    "start": [
+      0.7141441741216703,
+      0.14576478262643683
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.8045565881272478,
+      0.8399139275939377
+    ],
+    "id": "episode_157",
+    "layout": {
+      "band_height": 0.16142158629013237,
+      "band_y": 0.44329235484047863,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_15",
+      "mirror": true
+    },
+    "start": [
+      0.4645249755955242,
+      0.16863162789350475
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.7701323627339582,
+      0.6429508568636284
+    ],
+    "id": "episode_158",
+    "layout": {
+      "band_height": 0.16142158629013237,
+      "band_y": 0.44329235484047863,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_15",
+      "mirror": true
+    },
+    "start": [
+      0.4276949570125761,
+      0.22385341381570376
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.5050350636073765,
+      0.9015323988498021
+    ],
+    "id": "episode_159",
+    "layout": {
+      "band_height": 0.16142158629013237,
+      "band_y": 0.44329235484047863,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_15",
+      "mirror": true
+    },
+    "start": [
+      0.214524058613488,
+      0.19113348168107896
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.41092540438902575,
+      0.8912965859946173
+    ],
+    "id": "episode_160",
+    "layout": {
+      "band_height": 0.1725123910049347,
+      "band_y": 0.5197347989650749,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_16",
+      "mirror": false
+    },
+    "start": [
+      0.31950634400920797,
+      0.21022259515293343
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.528219639698509,
+      0.7092611216547867
+    ],
+    "id": "episode_161",
+    "layout": {
+      "band_height": 0.1725123910049347,
+      "band_y": 0.5197347989650749,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_16",
+      "mirror": false
+    },
+    "start": [
+      0.2338820881833561,
+      0.23753365048728398
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.402966636352413,
+      0.7081884517225959
+    ],
+    "id": "episode_162",
+    "layout": {
+      "band_height": 0.1725123910049347,
+      "band_y": 0.5197347989650749,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_16",
+      "mirror": false
+    },
+    "start": [
+      0.6443043201655915,
+      0.19546766323664969
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.6512760897389808,
+      0.729646644341172
+    ],
+    "id": "episode_163",
+    "layout": {
+      "band_height": 0.1725123910049347,
+      "band_y": 0.5197347989650749,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_16",
+      "mirror": false
+    },
+    "start": [
+      0.38242161574764255,
+      0.0702677252661147
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.6174061236292782,
+      0.920902396689237
+    ],
+    "id": "episode_164",
+    "layout": {
+      "band_height": 0.1725123910049347,
+      "band_y": 0.5197347989650749,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_16",
+      "mirror": false
+    },
+    "start": [
+      0.1241964602643651,
+      0.08219959136451321
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.5890745956109742,
+      0.8912965859946173
+    ],
+    "id": "episode_165",
+    "layout": {
+      "band_height": 0.1725123910049347,
+      "band_y": 0.5197347989650749,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_16",
+      "mirror": true
+    },
+    "start": [
+      0.680493655990792,
+      0.21022259515293343
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.47178036030149095,
+      0.7092611216547867
+    ],
+    "id": "episode_166",
+    "layout": {
+      "band_height": 0.1725123910049347,
+      "band_y": 0.5197347989650749,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_16",
+      "mirror": true
+    },
+    "start": [
+      0.7661179118166439,
+      0.23753365048728398
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.5970333636475871,
+      0.7081884517225959
+    ],
+    "id": "episode_167",
+    "layout": {
+      "band_height": 0.1725123910049347,
+      "band_y": 0.5197347989650749,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_16",
+      "mirror": true
+    },
+    "start": [
+      0.35569567983440853,
+      0.19546766323664969
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.34872391026101923,
+      0.729646644341172
+    ],
+    "id": "episode_168",
+    "layout": {
+      "band_height": 0.1725123910049347,
+      "band_y": 0.5197347989650749,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_16",
+      "mirror": true
+    },
+    "start": [
+      0.6175783842523574,
+      0.0702677252661147
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.38259387637072184,
+      0.920902396689237
+    ],
+    "id": "episode_169",
+    "layout": {
+      "band_height": 0.1725123910049347,
+      "band_y": 0.5197347989650749,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_16",
+      "mirror": true
+    },
+    "start": [
+      0.875803539735635,
+      0.08219959136451321
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.1198229443859534,
+      0.792541591125419
+    ],
+    "id": "episode_170",
+    "layout": {
+      "band_height": 0.1539200719231264,
+      "band_y": 0.503107190092135,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_17",
+      "mirror": false
+    },
+    "start": [
+      0.12620857648511885,
+      0.18479549137796622
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.34481640505315825,
+      0.9122737995964483
+    ],
+    "id": "episode_171",
+    "layout": {
+      "band_height": 0.1539200719231264,
+      "band_y": 0.503107190092135,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_17",
+      "mirror": false
+    },
+    "start": [
+      0.473039114057341,
+      0.1239066616884956
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.12285715391815671,
+      0.8530321203166211
+    ],
+    "id": "episode_172",
+    "layout": {
+      "band_height": 0.1539200719231264,
+      "band_y": 0.503107190092135,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_17",
+      "mirror": false
+    },
+    "start": [
+      0.4675395690414531,
+      0.17150221379941677
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.15789714644887967,
+      0.8950245903713977
+    ],
+    "id": "episode_173",
+    "layout": {
+      "band_height": 0.1539200719231264,
+      "band_y": 0.503107190092135,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_17",
+      "mirror": false
+    },
+    "start": [
+      0.546594319252325,
+      0.1589835333883054
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.7193633420182666,
+      0.7033645309023335
+    ],
+    "id": "episode_174",
+    "layout": {
+      "band_height": 0.1539200719231264,
+      "band_y": 0.503107190092135,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_17",
+      "mirror": false
+    },
+    "start": [
+      0.5504460664473293,
+      0.2223382306804163
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.8801770556140466,
+      0.792541591125419
+    ],
+    "id": "episode_175",
+    "layout": {
+      "band_height": 0.1539200719231264,
+      "band_y": 0.503107190092135,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_17",
+      "mirror": true
+    },
+    "start": [
+      0.8737914235148811,
+      0.18479549137796622
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.6551835949468418,
+      0.9122737995964483
+    ],
+    "id": "episode_176",
+    "layout": {
+      "band_height": 0.1539200719231264,
+      "band_y": 0.503107190092135,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_17",
+      "mirror": true
+    },
+    "start": [
+      0.526960885942659,
+      0.1239066616884956
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.8771428460818433,
+      0.8530321203166211
+    ],
+    "id": "episode_177",
+    "layout": {
+      "band_height": 0.1539200719231264,
+      "band_y": 0.503107190092135,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_17",
+      "mirror": true
+    },
+    "start": [
+      0.5324604309585469,
+      0.17150221379941677
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.8421028535511204,
+      0.8950245903713977
+    ],
+    "id": "episode_178",
+    "layout": {
+      "band_height": 0.1539200719231264,
+      "band_y": 0.503107190092135,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_17",
+      "mirror": true
+    },
+    "start": [
+      0.45340568074767496,
+      0.1589835333883054
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.28063665798173343,
+      0.7033645309023335
+    ],
+    "id": "episode_179",
+    "layout": {
+      "band_height": 0.1539200719231264,
+      "band_y": 0.503107190092135,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_17",
+      "mirror": true
+    },
+    "start": [
+      0.4495539335526707,
+      0.2223382306804163
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.33662642708629475,
+      0.7176266532170636
+    ],
+    "id": "episode_180",
+    "layout": {
+      "band_height": 0.17578036191606738,
+      "band_y": 0.5041787892268649,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_18",
+      "mirror": false
+    },
+    "start": [
+      0.32076129603195547,
+      0.09630443915049845
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.774223060004383,
+      0.8826985674124809
+    ],
+    "id": "episode_181",
+    "layout": {
+      "band_height": 0.17578036191606738,
+      "band_y": 0.5041787892268649,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_18",
+      "mirror": false
+    },
+    "start": [
+      0.13901943581458634,
+      0.21061582360427708
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.593673036998898,
+      0.8130913027125134
+    ],
+    "id": "episode_182",
+    "layout": {
+      "band_height": 0.17578036191606738,
+      "band_y": 0.5041787892268649,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_18",
+      "mirror": false
+    },
+    "start": [
+      0.13302896063462893,
+      0.22618311100264832
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.31808649997697974,
+      0.848869483552329
+    ],
+    "id": "episode_183",
+    "layout": {
+      "band_height": 0.17578036191606738,
+      "band_y": 0.5041787892268649,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_18",
+      "mirror": false
+    },
+    "start": [
+      0.634516803738417,
+      0.26174612305883393
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.6686677914711306,
+      0.8462795793162425
+    ],
+    "id": "episode_184",
+    "layout": {
+      "band_height": 0.17578036191606738,
+      "band_y": 0.5041787892268649,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_18",
+      "mirror": false
+    },
+    "start": [
+      0.801285315287302,
+      0.3123001376236971
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.6633735729137052,
+      0.7176266532170636
+    ],
+    "id": "episode_185",
+    "layout": {
+      "band_height": 0.17578036191606738,
+      "band_y": 0.5041787892268649,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_18",
+      "mirror": true
+    },
+    "start": [
+      0.6792387039680445,
+      0.09630443915049845
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.225776939995617,
+      0.8826985674124809
+    ],
+    "id": "episode_186",
+    "layout": {
+      "band_height": 0.17578036191606738,
+      "band_y": 0.5041787892268649,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_18",
+      "mirror": true
+    },
+    "start": [
+      0.8609805641854137,
+      0.21061582360427708
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.40632696300110205,
+      0.8130913027125134
+    ],
+    "id": "episode_187",
+    "layout": {
+      "band_height": 0.17578036191606738,
+      "band_y": 0.5041787892268649,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_18",
+      "mirror": true
+    },
+    "start": [
+      0.8669710393653711,
+      0.22618311100264832
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.6819135000230203,
+      0.848869483552329
+    ],
+    "id": "episode_188",
+    "layout": {
+      "band_height": 0.17578036191606738,
+      "band_y": 0.5041787892268649,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_18",
+      "mirror": true
+    },
+    "start": [
+      0.365483196261583,
+      0.26174612305883393
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.33133220852886935,
+      0.8462795793162425
+    ],
+    "id": "episode_189",
+    "layout": {
+      "band_height": 0.17578036191606738,
+      "band_y": 0.5041787892268649,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_18",
+      "mirror": true
+    },
+    "start": [
+      0.19871468471269804,
+      0.3123001376236971
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.40416739567664084,
+      0.750051516582604
+    ],
+    "id": "episode_190",
+    "layout": {
+      "band_height": 0.15874461944237528,
+      "band_y": 0.5007482921295962,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_19",
+      "mirror": false
+    },
+    "start": [
+      0.8277749341059139,
+      0.21029181140453868
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.3157632679408773,
+      0.8551261697021827
+    ],
+    "id": "episode_191",
+    "layout": {
+      "band_height": 0.15874461944237528,
+      "band_y": 0.5007482921295962,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_19",
+      "mirror": false
+    },
+    "start": [
+      0.11637883399808438,
+      0.20351017907448252
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.6119545247486758,
+      0.9191789825589392
+    ],
+    "id": "episode_192",
+    "layout": {
+      "band_height": 0.15874461944237528,
+      "band_y": 0.5007482921295962,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_19",
+      "mirror": false
+    },
+    "start": [
+      0.29220749198199514,
+      0.2551249145474942
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.19320073489520656,
+      0.7648698605795173
+    ],
+    "id": "episode_193",
+    "layout": {
+      "band_height": 0.15874461944237528,
+      "band_y": 0.5007482921295962,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_19",
+      "mirror": false
+    },
+    "start": [
+      0.5138992727183339,
+      0.18840221739739832
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.3503077158507524,
+      0.8689850171209196
+    ],
+    "id": "episode_194",
+    "layout": {
+      "band_height": 0.15874461944237528,
+      "band_y": 0.5007482921295962,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_19",
+      "mirror": false
+    },
+    "start": [
+      0.7757316700402995,
+      0.26368148250541146
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.5958326043233592,
+      0.750051516582604
+    ],
+    "id": "episode_195",
+    "layout": {
+      "band_height": 0.15874461944237528,
+      "band_y": 0.5007482921295962,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_19",
+      "mirror": true
+    },
+    "start": [
+      0.17222506589408615,
+      0.21029181140453868
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.6842367320591227,
+      0.8551261697021827
+    ],
+    "id": "episode_196",
+    "layout": {
+      "band_height": 0.15874461944237528,
+      "band_y": 0.5007482921295962,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_19",
+      "mirror": true
+    },
+    "start": [
+      0.8836211660019156,
+      0.20351017907448252
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.38804547525132416,
+      0.9191789825589392
+    ],
+    "id": "episode_197",
+    "layout": {
+      "band_height": 0.15874461944237528,
+      "band_y": 0.5007482921295962,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_19",
+      "mirror": true
+    },
+    "start": [
+      0.7077925080180049,
+      0.2551249145474942
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.8067992651047935,
+      0.7648698605795173
+    ],
+    "id": "episode_198",
+    "layout": {
+      "band_height": 0.15874461944237528,
+      "band_y": 0.5007482921295962,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_19",
+      "mirror": true
+    },
+    "start": [
+      0.4861007272816661,
+      0.18840221739739832
+    ]
+  },
+  {
+    "budget": 250,
+    "goal": [
+      0.6496922841492476,
+      0.8689850171209196
+    ],
+    "id": "episode_199",
+    "layout": {
+      "band_height": 0.15874461944237528,
+      "band_y": 0.5007482921295962,
+      "current_strength": 1.25,
+      "difficulty": "hard",
+      "gap_width": 0.08,
+      "group": "layout_19",
+      "mirror": true
+    },
+    "start": [
+      0.22426832995970047,
+      0.26368148250541146
+    ]
+  }
+]

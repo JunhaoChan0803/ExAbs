@@ -1,0 +1,23 @@
+{
+  "aggregation": "mean",
+  "am_weight": 0.01,
+  "barrier_weight": 0.0001,
+  "petal_config": {
+    "anchor": 0.9,
+    "shortlist": 128,
+    "temperature": 0.0025
+  },
+  "project": true,
+  "raw_disagreement": true,
+  "uncertainty_beta": 0.25,
+  "selector_coverage": 0.05,
+  "batch_size": 4,
+  "low_seed": 71942,
+  "high_seed": 171942,
+  "budget": 250,
+  "execute_steps": 10,
+  "low_horizon": 15,
+  "final_goal_steps": 30,
+  "low_candidates": 500,
+  "high_candidates": 2000
+}

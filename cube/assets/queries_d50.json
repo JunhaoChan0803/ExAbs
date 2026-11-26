@@ -1,0 +1,356 @@
+{
+  "seed": 260933,
+  "distance": 50,
+  "tasks": [
+    {
+      "episode_idx": 30,
+      "eval_index": 0,
+      "goal_step": 175,
+      "source_row": 6155,
+      "start_step": 125
+    },
+    {
+      "episode_idx": 166,
+      "eval_index": 1,
+      "goal_step": 189,
+      "source_row": 33505,
+      "start_step": 139
+    },
+    {
+      "episode_idx": 391,
+      "eval_index": 2,
+      "goal_step": 80,
+      "source_row": 78621,
+      "start_step": 30
+    },
+    {
+      "episode_idx": 864,
+      "eval_index": 3,
+      "goal_step": 146,
+      "source_row": 173760,
+      "start_step": 96
+    },
+    {
+      "episode_idx": 981,
+      "eval_index": 4,
+      "goal_step": 125,
+      "source_row": 197256,
+      "start_step": 75
+    },
+    {
+      "episode_idx": 1141,
+      "eval_index": 5,
+      "goal_step": 135,
+      "source_row": 229426,
+      "start_step": 85
+    },
+    {
+      "episode_idx": 1477,
+      "eval_index": 6,
+      "goal_step": 149,
+      "source_row": 296976,
+      "start_step": 99
+    },
+    {
+      "episode_idx": 1478,
+      "eval_index": 7,
+      "goal_step": 194,
+      "source_row": 297222,
+      "start_step": 144
+    },
+    {
+      "episode_idx": 1570,
+      "eval_index": 8,
+      "goal_step": 127,
+      "source_row": 315647,
+      "start_step": 77
+    },
+    {
+      "episode_idx": 1783,
+      "eval_index": 9,
+      "goal_step": 121,
+      "source_row": 358454,
+      "start_step": 71
+    },
+    {
+      "episode_idx": 1793,
+      "eval_index": 10,
+      "goal_step": 128,
+      "source_row": 360471,
+      "start_step": 78
+    },
+    {
+      "episode_idx": 1931,
+      "eval_index": 11,
+      "goal_step": 110,
+      "source_row": 388191,
+      "start_step": 60
+    },
+    {
+      "episode_idx": 2041,
+      "eval_index": 12,
+      "goal_step": 50,
+      "source_row": 410241,
+      "start_step": 0
+    },
+    {
+      "episode_idx": 2154,
+      "eval_index": 13,
+      "goal_step": 193,
+      "source_row": 433097,
+      "start_step": 143
+    },
+    {
+      "episode_idx": 2233,
+      "eval_index": 14,
+      "goal_step": 105,
+      "source_row": 448888,
+      "start_step": 55
+    },
+    {
+      "episode_idx": 2707,
+      "eval_index": 15,
+      "goal_step": 101,
+      "source_row": 544158,
+      "start_step": 51
+    },
+    {
+      "episode_idx": 2833,
+      "eval_index": 16,
+      "goal_step": 111,
+      "source_row": 569494,
+      "start_step": 61
+    },
+    {
+      "episode_idx": 2902,
+      "eval_index": 17,
+      "goal_step": 59,
+      "source_row": 583311,
+      "start_step": 9
+    },
+    {
+      "episode_idx": 3589,
+      "eval_index": 18,
+      "goal_step": 140,
+      "source_row": 721479,
+      "start_step": 90
+    },
+    {
+      "episode_idx": 3593,
+      "eval_index": 19,
+      "goal_step": 185,
+      "source_row": 722328,
+      "start_step": 135
+    },
+    {
+      "episode_idx": 3977,
+      "eval_index": 20,
+      "goal_step": 79,
+      "source_row": 799406,
+      "start_step": 29
+    },
+    {
+      "episode_idx": 4305,
+      "eval_index": 21,
+      "goal_step": 165,
+      "source_row": 865420,
+      "start_step": 115
+    },
+    {
+      "episode_idx": 4406,
+      "eval_index": 22,
+      "goal_step": 194,
+      "source_row": 885750,
+      "start_step": 144
+    },
+    {
+      "episode_idx": 4536,
+      "eval_index": 23,
+      "goal_step": 135,
+      "source_row": 911821,
+      "start_step": 85
+    },
+    {
+      "episode_idx": 4732,
+      "eval_index": 24,
+      "goal_step": 87,
+      "source_row": 951169,
+      "start_step": 37
+    },
+    {
+      "episode_idx": 4989,
+      "eval_index": 25,
+      "goal_step": 129,
+      "source_row": 1002868,
+      "start_step": 79
+    },
+    {
+      "episode_idx": 5330,
+      "eval_index": 26,
+      "goal_step": 163,
+      "source_row": 1071443,
+      "start_step": 113
+    },
+    {
+      "episode_idx": 5370,
+      "eval_index": 27,
+      "goal_step": 148,
+      "source_row": 1079468,
+      "start_step": 98
+    },
+    {
+      "episode_idx": 5499,
+      "eval_index": 28,
+      "goal_step": 155,
+      "source_row": 1105404,
+      "start_step": 105
+    },
+    {
+      "episode_idx": 5542,
+      "eval_index": 29,
+      "goal_step": 122,
+      "source_row": 1114014,
+      "start_step": 72
+    },
+    {
+      "episode_idx": 6259,
+      "eval_index": 30,
+      "goal_step": 129,
+      "source_row": 1258138,
+      "start_step": 79
+    },
+    {
+      "episode_idx": 6597,
+      "eval_index": 31,
+      "goal_step": 94,
+      "source_row": 1326041,
+      "start_step": 44
+    },
+    {
+      "episode_idx": 6946,
+      "eval_index": 32,
+      "goal_step": 135,
+      "source_row": 1396231,
+      "start_step": 85
+    },
+    {
+      "episode_idx": 7038,
+      "eval_index": 33,
+      "goal_step": 59,
+      "source_row": 1414647,
+      "start_step": 9
+    },
+    {
+      "episode_idx": 7099,
+      "eval_index": 34,
+      "goal_step": 117,
+      "source_row": 1426966,
+      "start_step": 67
+    },
+    {
+      "episode_idx": 7846,
+      "eval_index": 35,
+      "goal_step": 106,
+      "source_row": 1577102,
+      "start_step": 56
+    },
+    {
+      "episode_idx": 8064,
+      "eval_index": 36,
+      "goal_step": 182,
+      "source_row": 1620996,
+      "start_step": 132
+    },
+    {
+      "episode_idx": 8471,
+      "eval_index": 37,
+      "goal_step": 107,
+      "source_row": 1702728,
+      "start_step": 57
+    },
+    {
+      "episode_idx": 8793,
+      "eval_index": 38,
+      "goal_step": 197,
+      "source_row": 1767540,
+      "start_step": 147
+    },
+    {
+      "episode_idx": 8881,
+      "eval_index": 39,
+      "goal_step": 55,
+      "source_row": 1785086,
+      "start_step": 5
+    },
+    {
+      "episode_idx": 8956,
+      "eval_index": 40,
+      "goal_step": 112,
+      "source_row": 1800218,
+      "start_step": 62
+    },
+    {
+      "episode_idx": 9019,
+      "eval_index": 41,
+      "goal_step": 186,
+      "source_row": 1812955,
+      "start_step": 136
+    },
+    {
+      "episode_idx": 9056,
+      "eval_index": 42,
+      "goal_step": 195,
+      "source_row": 1820401,
+      "start_step": 145
+    },
+    {
+      "episode_idx": 9068,
+      "eval_index": 43,
+      "goal_step": 186,
+      "source_row": 1822804,
+      "start_step": 136
+    },
+    {
+      "episode_idx": 9072,
+      "eval_index": 44,
+      "goal_step": 154,
+      "source_row": 1823576,
+      "start_step": 104
+    },
+    {
+      "episode_idx": 9483,
+      "eval_index": 45,
+      "goal_step": 120,
+      "source_row": 1906153,
+      "start_step": 70
+    },
+    {
+      "episode_idx": 9819,
+      "eval_index": 46,
+      "goal_step": 136,
+      "source_row": 1973705,
+      "start_step": 86
+    },
+    {
+      "episode_idx": 9819,
+      "eval_index": 47,
+      "goal_step": 200,
+      "source_row": 1973769,
+      "start_step": 150
+    },
+    {
+      "episode_idx": 9936,
+      "eval_index": 48,
+      "goal_step": 76,
+      "source_row": 1997162,
+      "start_step": 26
+    },
+    {
+      "episode_idx": 9936,
+      "eval_index": 49,
+      "goal_step": 84,
+      "source_row": 1997170,
+      "start_step": 34
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+Hi-LeWM code and checkpoints
+
+Authors: Niccolò Castelli, Francesco Massafra, Samuele Punzo,
+Salvatore Lo Sardo, and Ippokratis Pantelidis.
+
+Source: https://zenodo.org/records/21353240
+License declared by the source archive: Creative Commons Attribution 4.0 International.
+License text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Adapted components: cube/models/world_model.py,
+cube/models/macro_encoder.py, cube/planning/policy.py,
+and cube/determinism.py, together with the corresponding pretrained
+base-world-model parameters.
+
+Changes include portable imports, reorganized module names, tensor-only
+checkpoint loading, and integration with the ExAbs planning components.
+The original authors retain attribution for their contributions.

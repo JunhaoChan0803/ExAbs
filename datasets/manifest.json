@@ -1,0 +1,73 @@
+{
+  "contents": "Simulator observation/action trajectories and collection metadata",
+  "scenes": {
+    "two_room": {
+      "episodes": 5520
+    },
+    "counter_flow": {
+      "episodes": 4224
+    }
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4880,
+      "sha256": "6e2c2d97016ac46e12e930e0e8a8e710d186cd8888bcc2e4276982c5f9b3e2f4"
+    },
+    {
+      "path": "counter_flow/metadata/balanced.json",
+      "bytes": 1439131,
+      "sha256": "ab301aef320c714806acd60d504f53052ee6ff2b466d3664ac9988ddf27cc893"
+    },
+    {
+      "path": "counter_flow/metadata/balanced_maps.json",
+      "bytes": 20159,
+      "sha256": "a05f836e71bddbee2e5ff9782177b97b5c98254ea39e7dd6fc21b93db5dfd72e"
+    },
+    {
+      "path": "counter_flow/metadata/long.json",
+      "bytes": 4850240,
+      "sha256": "66c926fe67c8d6e3a2e294dfca550135c52ce84125f06b571f27ef6391da904b"
+    },
+    {
+      "path": "counter_flow/metadata/long_maps.json",
+      "bytes": 25819,
+      "sha256": "3e6dacdb5e8ed5c8237510bb9f8f40875c49bf1084f45d30fbad72549b6a36c6"
+    },
+    {
+      "path": "counter_flow/trajectories/balanced.tar.zst",
+      "bytes": 21269009,
+      "sha256": "3e9968368b9bcd1e33bf83c665478759a195465b649e2f03ae0cc91bbd1efada"
+    },
+    {
+      "path": "counter_flow/trajectories/long.tar.zst",
+      "bytes": 71442395,
+      "sha256": "c463a0b97f65873156fcb94ecb984dee65105cee9b1d2a559fa9112f44367332"
+    },
+    {
+      "path": "two_room/metadata/local_windows.json",
+      "bytes": 1171236,
+      "sha256": "663d1f879c63581494fcea0c618da175ffdf65c01411b7ec10ce5e8c8b120ef5"
+    },
+    {
+      "path": "two_room/metadata/maps.json",
+      "bytes": 49668,
+      "sha256": "0f4483f66616aefbc40102ea58b97ef0857fbcaf55e66658d3767720b228be0f"
+    },
+    {
+      "path": "two_room/metadata/paired_passages.json",
+      "bytes": 48979,
+      "sha256": "0b48ac25e9335755dd0c8ebf6f8f410baf8247f27d56f429be1c60e47a00f20d"
+    },
+    {
+      "path": "two_room/metadata/trajectories.json",
+      "bytes": 2097752,
+      "sha256": "87c744f883644127a8a3e4da41a772e6004e9a85eb21cf758ea5f4a5c2e4200d"
+    },
+    {
+      "path": "two_room/trajectories.tar.zst",
+      "bytes": 133456616,
+      "sha256": "a133b702c53fdf3ec2260fcdb2197719a1b7232ff496eeab2b4db0645ebe49f5"
+    }
+  ]
+}

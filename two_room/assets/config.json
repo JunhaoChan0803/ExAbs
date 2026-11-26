@@ -1,0 +1,11 @@
+{
+  "am_budget": 20,
+  "am_scale": 2.0,
+  "budget": 300,
+  "execute_steps": 6,
+  "handoff": 210,
+  "macro_steps": 20,
+  "segments": 5,
+  "batch_size": 4,
+  "seed": 4300000
+}
